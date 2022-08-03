@@ -1,0 +1,1 @@
+https://angled-edges-generator.josephfus.co/?angle=10&fillBottom=rgba(255,255,255,1)&fillShape=rgba(255,50,0,1)&fillTop=rgba(255,50,0,1)&fluid=true&height=100&hypotenuse=lower-right&width=1470

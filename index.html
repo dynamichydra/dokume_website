@@ -1,0 +1,120 @@
+<script>
+  //window.location = 'UPDATE_INFO';
+  var authConfig = localStorage.getItem('authConfig');
+  if (authConfig && authConfig.token !== '' && authConfig.refresh !== '') {
+      window.location = 'https://dokume.net/platform';
+  } else if (!document.location.href.includes('d=true')) {
+    var websiteType = localStorage.getItem('websiteType');
+    if (websiteType) {
+      switch (websiteType) {
+        case '1': window.location = 'company.php'; break;
+        case '2': window.location = 'federation.php?t=2'; break;
+      }
+    }
+  }
+
+</script>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="shortcut icon" href="https://cdn.dokume.net/img/logo/favicon/DokuMe_round_button.png" type="image/x-icon">
+  <title>DokuMe</title>
+  <meta name="theme-color" content="#333a54">
+  <link rel="stylesheet" href="websiteNEWASSETS/css/bootstrap.min.css">
+  <!--icon font css-->
+  <link rel="stylesheet" href="websiteNEWASSETS/vendors/themify-icon/themify-icons.css">
+  <!--<link rel="stylesheet" href="websiteNEWASSETS/vendors/font-awesome/css/all.css">-->
+  <link rel="stylesheet" href="https://kline.dokume.net/dokume/fonts/fontawesome/css/all.css">
+
+  <link rel="stylesheet" href="websiteNEWASSETS/dokumeCustom/css/choose2.css">
+
+</head>
+
+<body>
+
+  <header class="header_area header_area_two h_dark navbar_fixedNOT">
+    <!--<header class="header_area header_area_seven">-->
+    <div class="header_area_seven">
+      <div class="header_top">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6 d-flex">
+              <ul class="header_contact_info list-styled">
+                <li>
+                  <i class="far fa-envelope"></i><a href="mailto:info@dokume.net">
+                    <img src="https://cdn.dokume.net/img/logo/dokume_logo_black_plain.png"
+                      srcset="https://cdn.dokume.net/img/logo/dokume_logo_black_plain.png" alt="logo"
+                      style="height: 30px;"></a>
+                </li>
+              </ul>
+              <ul class="header_social_icon list-unstyled">
+                <li><a href="https://www.facebook.com/dokume.net" target="_blank"><i class="ti-facebook"></i></a></li>
+                <li><a href="https://twitter.com/DokuMenet" target="_blank"><i class="ti-twitter-alt"></i></a></li>
+                <li><a href="https://www.instagram.com/dokume/" target="_blank"><i class="ti-instagram"></i></a></li>
+              </ul>
+            </div>
+            <div class="col-md-6">
+              <ul class="header_top_menu list-unstyled">
+                <li><a href="changeClientType.php?client=company" data-i18n="menu.company">Unternehmen</a></li>
+                <li><a href="changeClientType.php?client=federation" data-i18n="menu.federation">Sportverbände</a></li>
+                <li><a href="impress.php" data-i18n="menu.demo">Impressum</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="parent">
+    <div class="one">
+      <div class="bg bg-left"></div>
+      <div class="transparentBlue"></div>
+      <div class="content-area">
+        <div class="contant-area-inner">
+          <div class="text-area">
+            <p>Entscheide zwischen</p>
+            <h2>Unternehmens- & Digitalisierungs-<br>strategien</h2>
+          </div>
+          <div class="btn-area">
+            <a href="company.php" data-websitetype="1">Zur Unternehmensseite</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="two">
+      <div class="bg bg-right"></div>
+      <div class="transparentBlue"></div>
+      <div class="content-area">
+        <div class="contant-area-inner">
+          <div class="text-area">
+            <p>Oder</p>
+            <h2>Sportverbände, Trainer & Vereine</h2>
+          </div>
+          <div class="btn-area">
+            <a href="federation.php" data-websitetype="2">Zur Verbands- & Trainerseite</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    'use strict';
+
+    (function () {
+
+      document.querySelectorAll('[data-websitetype]').forEach(item => {
+        item.addEventListener('click', e => {
+          localStorage.setItem('websiteType', item.dataset.websitetype);
+        })
+      })
+    })();
+  </script>
+</body>
+
+</html>

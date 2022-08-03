@@ -1,0 +1,76 @@
+[{
+	"TITLE": "Neu: CORONA-Gästeregistrierung",
+	"ICON": "<i class='ti-location-arrow'></i>",
+	"DESCRIPTION": "Nutze Formulare zur Registrierung von Gästen oder Erhebung von Gesundheitsdaten – voll automatisiert, sicher erfasst, zeitgerecht gelöscht – und einfach eingebunden.",
+  "IMG": "http://droitthemes.com/html/saasland/img/home2/inbox.png"
+}, {
+	"TITLE": "Mitgliederverwaltung",
+	"ICON": "<i class='ti-search'></i>",
+	"DESCRIPTION": "Volle Übersicht über Ihre Mitglieder: Von der Registrierung bis zur Abwicklung der Mitgliedsbeiträge – auf Ihren Wunsch hin auch durch direkten Onlineeinzug. Schnell, unkompliziert und ohne lästigen Überweisungsträger.",
+"IMG": "http://droitthemes.com/html/saasland/img/home2/file.png"
+}, {
+	"TITLE": "Verbandsverwaltung",
+	"ICON": "<i class='ti-stats-up'></i>",
+	"DESCRIPTION": "Nutzen Sie die bereits etablierten Funktionen der Mitgliederverwaltung jetzt auch für die Mitgliedsvereine Ihres Verbandes – von der Pflege der Kontaktdaten bis zum 360° Überblick über deren Beiträge. ",
+  "IMG": "http://droitthemes.com/html/saasland/img/home2/report.png"
+}, {
+	"TITLE": "Struktur & Organisation",
+	"ICON": "<i class='ti-check'></i>",
+	"DESCRIPTION": "Ihre digitale Verbandsstruktur sichert Ihnen den direkten Draht zu allen Mitgliedern. Verschaffen Sie sich einen Überblick und schicken Sie News und E-Mails personalisiert an alle gewünschten Empfänger.<b>Beliebteste Features:</b><span>Push App</span>",
+"IMG": "http://droitthemes.com/html/saasland/img/home2/undraw.png"
+}, {
+	"TITLE": "Veranstaltungsmanagement",
+	"ICON": "<i class='ti-location-arrow'></i>",
+	"DESCRIPTION": "Von Planung & Ticketverkauf über Eintrittsmanagement bis zur Nachbereitung mit topaktuellen Auswertungen – Ihr Veranstaltungsmanagement-Tool unterstützt Sie bei jedem Schritt, damit einem gelungenen Event nichts im Wege steht.<b>Beliebteste Features:</b>Notizen & Projektmanagement",
+"IMG": "http://droitthemes.com/html/saasland/img/home2/inbox.png"
+}, {
+	"TITLE": "Push-App ",
+	"ICON": "<i class='ti-search'></i>",
+	"DESCRIPTION": "Nie etwas Wichtiges verpassen: Mit Ihrer eigenen Push-App halten Sie Mitglieder, Sponsoren oder Fans immer mit den relevantesten Infos auf dem Laufenden und steigern die Interaktion – 100% zielgerichtet für größtmöglichen Erfolg. ",
+  "IMG": "http://droitthemes.com/html/saasland/img/home2/file.png"
+}, {
+	"TITLE": "Notizen & Aufgaben",
+	"ICON": "<i class='ti-stats-up'></i>",
+	"DESCRIPTION": "Verwalten Sie alle Aufgaben an einer zentralen Stelle: Verfolgen Sie den Status auf einem Kanban Board, lassen Sie sich anzeigen, welche Aufgaben heute noch zu erledigen sind, woran jemand arbeitet oder wo jemand Unterstützung benötigt. Gemeinsam mehr erreichen.",
+  "IMG": "http://droitthemes.com/html/saasland/img/home2/report.png"
+}, {
+	"TITLE": "Dokumentenablage",
+	"ICON": "<i class='ti-check'></i>",
+	"DESCRIPTION": "Digital statt verstaubt, gefunden statt gesucht – so und nicht anders sollen Dokumente sein. Mit ihrer digitalen Ablage haben Sie alles kategorisiert und griffbereit und sparen somit nicht nur Papier  - sondern vorallem Nerven.",
+  "IMG": "http://droitthemes.com/html/saasland/img/home2/undraw.png"
+}, {
+	"TITLE": "Jahresplanung & Kalender",
+	"ICON": "<i class='ti-location-arrow'></i>",
+	"DESCRIPTION": "Auf einen Blick das ganze Jahr. Mit der Jahresplanung bekommen Sie schnell einen Überblick über die verschiedenen Trainingsetappen des laufenden Trainingsjahres, planen gemeinsam Einheiten und sichern den Kontakt zwischen Athleten, Betreuern und Trainingsgruppen.",
+  "IMG": "http://droitthemes.com/html/saasland/img/home2/inbox.png"
+}, {
+	"TITLE": "Abwesenheitsmanager",
+	"ICON": "<i class='ti-search'></i>",
+	"DESCRIPTION": "Krank? Verletzt oder beruflich verhindert? Mit einem Klick können alle Athleten, Betreuer und Mitarbeiter mitteilen, was los ist. Und den Überblick behalten, wer verhindert ist – ganz ohne lästiges Hinterher-Telefonieren.",
+  "IMG": "http://droitthemes.com/html/saasland/img/home2/file.png"
+}, {
+	"TITLE": "Digitalisierte Abrechnung",
+	"ICON": "<i class='ti-stats-up'></i>",
+	"DESCRIPTION": "Abrechnungsprozesse zwischen medizinischen Untersuchungszentren, Landes- und Bundesbehörden werden digital. Excel-Listen, fehlende Reporting und mangelnde Übersicht sind Vergangenheit.",
+  "IMG": "http://droitthemes.com/html/saasland/img/home2/inbox.png"
+}, {
+	"TITLE": "Freiwilligendienstportal",
+	"ICON": "<i class='ti-check'></i>",
+	"DESCRIPTION": "Webbasiertes Bewerberportal für FSJ- und BFD-Stellen. Eingabe der Stellenangebote durch die Einsatzstellen (EST), Angebots- und Bewerbungsworkflow zwischen Bewerber, EST und Sportjugend inkl. Personalbogen.",
+  "IMG": "http://droitthemes.com/html/saasland/img/home2/undraw.png"
+}, {
+	"TITLE": "Akkreditierung",
+	"ICON": "<i class='ti-search'></i>",
+	"DESCRIPTION": "Mit der Datenbank für Leistungssport lassen sich Athleten und Institutionen aller Ebenen verwalten. Die Akkreditierung von Athleten zu nationalen und internationalen Events ist ein spannendes Feature.",
+  "IMG": "http://droitthemes.com/html/saasland/img/home2/file.png"
+}, {
+	"TITLE": "Förderung",
+	"ICON": "<i class='ti-stats-up'></i>",
+	"DESCRIPTION": "Vom Antrag bis zum Verwendungsnachweis. Mit Banken, Behörden und Institutionen, mit allen. Für alles, vom Übungsleiter, Sonderurlaub, über Modernisierungszuschüsse für Sportstätten bis zur Soforthilfe COVID 19.",
+  "IMG": "http://droitthemes.com/html/saasland/img/home2/report.png"
+}, {
+	"TITLE": "Projektmanagement",
+	"ICON": "<i class='ti-check'></i>",
+	"DESCRIPTION": "Ob Kanbanboard, Aufgaben oder Analyse – Ihre neue Projektmanagement-Software digitalisiert und vereinfacht Prozesse, damit Sie immer alles im Blick haben.",
+  "IMG": "http://droitthemes.com/html/saasland/img/home2/undraw.png"
+}]

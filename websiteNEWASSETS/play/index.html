@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>DokuMe</title>
+  <meta name="description" content="">
+  <meta name="author" content="Nicki" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link rel="stylesheet" media="screen" href="websiteNEWASSETS/css/style.css">
+  <style>
+  body {
+    background-size: cover;
+    height: 100vh;
+    background-image: url('https://cdn.pixabay.com/photo/2018/02/27/18/17/road-3186188_1280.jpg');
+    background-image: url('https://c8.alamy.com/compde/d07kx9/welt-globus-bleistift-skizze-d07kx9.jpg');
+  }
+  #particles-js {
+    //height: 20vh;
+    background-color: transparent;
+    //position: fixed;
+    //bottom: 0;
+    //right: 0;
+    //left: 0;
+  }
+    #welcome {
+      position: fixed;
+      top: 100px;
+      left: calc(50% - 200px);
+      width: 400px;
+      background-color: rgba(255,255,255,.5);
+      padding: 15px;
+      text-align: center;
+      font-size: 30px;
+    }
+    #stats, .count-particles {
+      display: none!important;
+    }
+  </style>
+</head>
+<body>
+
+<!-- count particles -->
+<div class="count-particles">
+  <span class="js-count-particles">--</span> particles
+</div>
+
+<!-- particles.js container -->
+<div id="particles-js">
+
+
+    <div id="welcome">
+      <h1>Danke Lisa!</h1>
+      <br><br>
+      <p>Imagine your business being connected - <b>just the way you want it.</b>
+Make it real. </p>
+      <hr>
+      <span id="connectedDots"></span> Verbindungen :)
+    </div>
+</div>
+
+<!-- scripts -->
+<script src="particles.min.js"></script>
+<script src="websiteNEWASSETS/js/app.js"></script>
+
+<!-- stats.js -->
+<script src="websiteNEWASSETS/js/lib/stats.js"></script>
+<script>
+  var count_particles, stats, update;
+  stats = new Stats;
+  stats.setMode(0);
+  stats.domElement.style.position = 'absolute';
+  stats.domElement.style.left = '0px';
+  stats.domElement.style.top = '0px';
+  document.body.appendChild(stats.domElement);
+  count_particles = document.querySelector('.js-count-particles');
+  update = function() {
+    stats.begin();
+    stats.end();
+    if (window.pJSDom[0].pJS.particles && window.pJSDom[0].pJS.particles.array) {
+      count_particles.innerText = window.pJSDom[0].pJS.particles.array.length;
+      document.getElementById('connectedDots').innerText = window.pJSDom[0].pJS.particles.array.length;
+    }
+    requestAnimationFrame(update);
+  };
+  requestAnimationFrame(update);
+</script>
+
+</body>
+</html>

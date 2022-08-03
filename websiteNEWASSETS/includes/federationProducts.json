@@ -1,0 +1,61 @@
+[{
+	"TITLE": "Neu: CORONA-Gästeregistrierung",
+	"ICON": "<i class='ti-location-arrow'></i>",
+	"DESCRIPTION": "Nutze Formulare zur Registrierung von Gästen oder Erhebung von Gesundheitsdaten – voll automatisiert, sicher erfasst, zeitgerecht gelöscht – und einfach eingebunden.",
+  "IMG": "http://droitthemes.com/html/saasland/img/home2/inbox.png"
+}, {
+	"TITLE": "Mitgliederverwaltung",
+	"ICON": "<i class='ti-search'></i>",
+	"DESCRIPTION": "Volle Übersicht über deine Mitglieder: Von der Registrierung bis zur Abwicklung der Mitgliedsbeiträge – auf deinen Wunsch hin auch durch direkten Onlineeinzug. Schnell, unkompliziert und ohne lästigen Überweisungsträger.",
+"IMG": "http://droitthemes.com/html/saasland/img/home2/file.png"
+}, {
+	"TITLE": "Verbandsverwaltung",
+	"ICON": "<i class='ti-stats-up'></i>",
+	"DESCRIPTION": "Nutze die bereits etablierten Funktionen der Mitgliederverwaltung jetzt auch für die Mitgliedsvereine deines Verbandes – von der Pflege der Kontaktdaten bis zum 360° Überblick über deren Beiträge. ",
+  "IMG": "http://droitthemes.com/html/saasland/img/home2/report.png"
+}, {
+	"TITLE": "Struktur & Organisation",
+	"ICON": "<i class='ti-check'></i>",
+	"DESCRIPTION": "Deine digitale Verbandsstruktur sichert dir den direkten Draht zu allen Mitgliedern. Verschaffe dir einen Überblick und schicke News und E-Mails personalisiert an alle gewünschten Empfänger.<b>Beliebteste Features:</b><span>Push App</span>",
+"IMG": "http://droitthemes.com/html/saasland/img/home2/undraw.png"
+}, {
+	"TITLE": "Veranstaltungsmanagement",
+	"ICON": "<i class='ti-location-arrow'></i>",
+	"DESCRIPTION": "Von Planung & Ticketverkauf über Eintrittsmanagement bis zur Nachbereitung mit topaktuellen Auswertungen – dein Veranstaltungsmanagement-Tool unterstützt dich bei jedem Schritt, damit einem gelungene Event nichts im Wege steht.<b>Beliebteste Features:</b>Notizen & AufgabenProjektmanagement",
+"IMG": "http://droitthemes.com/html/saasland/img/home2/inbox.png"
+}, {
+	"TITLE": "Push-App ",
+	"ICON": "<i class='ti-search'></i>",
+	"DESCRIPTION": "Nie etwas Wichtiges verpassen: Mit deiner Push-App hältst du Mitglieder, Sponsoren oder Fans immer mit den relevantesten Infos auf dem Laufenden und steigerst die Interaktion – 100% zielgerichtet für größtmöglichen Erfolg. ",
+  "IMG": "http://droitthemes.com/html/saasland/img/home2/file.png"
+}, {
+	"TITLE": "Notizen & Aufgaben",
+	"ICON": "<i class='ti-stats-up'></i>",
+	"DESCRIPTION": "Verwalte alle Aufgaben an einer zentralen Stelle: Verfolge den Status auf einem Kanban Board, lass‘ dir anzeigen, welche Aufgaben heute noch zu erledigen sind, woran jemand arbeitet oder wo jemand Unterstützung benötigt. Gemeinsam mehr erreichen.",
+  "IMG": "http://droitthemes.com/html/saasland/img/home2/report.png"
+}, {
+	"TITLE": "Dokumentenablage",
+	"ICON": "<i class='ti-check'></i>",
+	"DESCRIPTION": "Digital statt verstaubt, gefunden statt gesucht – so und nicht anders sollen Dokumente sein. Mit deiner digitalen Ablage hast du alles kategorisiert und griffbereit und sparst so Papier  - und Nerven.",
+  "IMG": "http://droitthemes.com/html/saasland/img/home2/undraw.png"
+}, {
+	"TITLE": "Jahresplanung & Kalender",
+	"ICON": "<i class='ti-location-arrow'></i>",
+	"DESCRIPTION": "Auf einen Blick das ganze Jahr. Mit der Jahresplanung bekommst du schnell einen Überblick über die verschiedenen Trainingsetappen des laufenden Trainingsjahres, planst gemeinsam Einheiten und sicherst den Kontakt zwischen Athleten, Betreuern und Trainingsgruppen.",
+  "IMG": "http://droitthemes.com/html/saasland/img/home2/inbox.png"
+}, {
+	"TITLE": "Abwesenheitsmanager",
+	"ICON": "<i class='ti-search'></i>",
+	"DESCRIPTION": "Krank? Verletzt oder beruflich verhindert? Mit einem Klick können alle Athleten, Betreuer und Mitarbeiter mitteilen, was los ist. Und den Überblick behalten, wer verhindert ist – ganz ohne lästiges Hinterher-Telefonieren.",
+  "IMG": "http://droitthemes.com/html/saasland/img/home2/file.png"
+}, {
+	"TITLE": "Zeitaufzeichnung",
+	"ICON": "<i class='ti-stats-up'></i>",
+	"DESCRIPTION": "Stempeluhren sind von gestern – nicht erst seit Zeiten des Homeoffices ;) Dein Team wird sie lieben, die digitale Zeitaufzeichnung, ganz einfach per Smartphone.",
+  "IMG": "http://droitthemes.com/html/saasland/img/home2/report.png"
+}, {
+	"TITLE": "Projektmanagement",
+	"ICON": "<i class='ti-check'></i>",
+	"DESCRIPTION": "Ob Kanbanboard, Aufgaben oder Analyse – deine neue Projektmanagement-Software digitalisiert und vereinfacht Prozesse, damit du immer alles im Blick hast.",
+  "IMG": "http://droitthemes.com/html/saasland/img/home2/undraw.png"
+}]

@@ -1,0 +1,335 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800");
+
+body {
+  padding: 0;
+  margin: 0;
+  font-weight: 400;
+  font-family: "Open Sans", sans-serif;
+}
+
+.parent {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+}
+
+.one,
+.two {
+  position: absolute;
+  height: 50vh;
+  width: 100%;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+/*
+    Check this page to see how to build the polygon
+    https://bennettfeely.com/clippy/
+    */
+.one {
+  top: 0;
+  -webkit-clip-path: polygon(0 0, 100% 0%, 100% 95%, 0% 100%);
+  /*top left, top right, bottom right, bottom left*/
+  clip-path: polygon(0 0, 100% 0%, 100% 95%, 0% 100%);
+}
+
+.two {
+  bottom: 50%;
+  top: 50%;
+  -webkit-clip-path: polygon(0 5%, 100% 0%, 100% 100%, 0 100%);
+  /*top left, top right, bottom right, bottom left*/
+  clip-path: polygon(0 5%, 100% 0%, 100% 100%, 0 100%);
+}
+
+.transparentBlue {
+  position: absolute;
+  top: 0;
+  height: 50vh;
+  width: 100%;
+  z-index: 2;
+  background: #273B5C;
+  opacity: .5;
+}
+
+.bg {
+  background-position: right;
+  background-size: cover;
+  height: 100vh;
+  filter: blur(5px);
+}
+
+.bg-left {
+  background-image: url(https://dokume.net/website/img/index/index_1.jpg);
+}
+
+.bg-right {
+  /*background-image: url(https://dokume.net/website/SaasLand/NEW/img/athletics/athletics_6.png);*/
+  background-image: url(https://dokume.net/website/SaasLand/NEW/img/trainingdocumentation/doku.jpg);
+  background-position: bottom;
+}
+
+.one:hover .bg-left,
+.two:hover .bg-right {
+  filter: none;
+}
+
+.one:hover .transparentBlue {
+  display: none;
+}
+
+.content-area {
+  position: absolute;
+  top: 0;
+  z-index: 2;
+  color: #fff;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-transform: uppercase;
+  text-shadow: 0 0 5px #000;
+  width: 100%;
+  text-align: center;
+}
+
+.content-area p {
+  font-size: 1rem;
+  font-weight: 300;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+}
+
+.content-area h2 {
+  font-size: 1.5rem;
+  line-height: 2.5rem;
+  font-weight: 700;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.btn-area {
+  margin-top: 3rem;
+}
+
+.btn-area a {
+  background: #e45039;
+  border: 1px solid white;
+  border-radius: 5px;
+  width: 20em;
+  padding: 0.7em;
+  font-size: 1em;
+  transition: all 0.2s ease-out;
+  text-decoration: none;
+  text-transform: none;
+  text-shadow: none;
+  color: white;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.btn-area a:hover {
+  text-decoration: none;
+  background-color: white;
+  border-color: white;
+  cursor: pointer;
+  color: #e45039;
+}
+
+@media (min-width: 768px) {
+  .one,
+  .two {
+    position: absolute;
+    height: 100vh;
+    width: 65%;
+    cursor: pointer;
+  }
+
+  /*
+      Check this page to see how to build the polygon
+      https://bennettfeely.com/clippy/
+      */
+  .one {
+    left: 0;
+    top: 0;
+    -webkit-clip-path: polygon(0 0, 85% 0%, 70% 100%, 0% 100%);
+    /*top left, top right, bottom right, bottom left*/
+    clip-path: polygon(0 0, 80% 0%, 70% 100%, 0% 100%);
+  }
+
+  .two {
+    right: 0;
+    top: 0;
+    -webkit-clip-path: polygon(35% 0, 100% 0%, 100% 100%, 20% 100%);
+    /*top left, top right, bottom right, bottom left*/
+    clip-path: polygon(30% 0, 100% 0%, 100% 100%, 20% 100%);
+  }
+
+  .transparentBlue {
+    height: 100vh;
+  }
+
+  .content-area {
+    width: 80%;
+  }
+
+  .two .content-area {
+    margin-left: 22%;
+  }
+
+  .contant-area-inner {
+    width: 60%;
+  }
+
+  .content-area h2 {
+    font-size: 2rem;
+    line-height: 3.5rem;
+  }
+
+  .bg-right {
+    background-image: url(https://dokume.net/website/SaasLand/NEW/img/trainingdocumentation/doku.jpg);
+    background-position: left;
+  }
+}
+
+
+/*header*/
+
+.header_top {
+  padding: 12px 0px;
+}
+
+.header_contact_info {
+  margin-bottom: 0;
+}
+.header_contact_info li {
+  display: inline-block;
+  font-size: 14px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  color: #fff;
+  text-transform: capitalize;
+}
+.header_contact_info li:before {
+  content: "";
+  width: 1px;
+  height: 12px;
+  top: 1px;
+  background: #5e5d76;
+  display: inline-block;
+  position: relative;
+  margin: 0px 22px 0px 20px;
+}
+.header_contact_info li:first-child:before {
+  display: none;
+}
+.header_contact_info li a {
+  color: #c3c1da;
+  font-weight: 300;
+  padding-left: 5px;
+}
+
+.header_social_icon {
+  text-align: right;
+  margin-bottom: 0;
+}
+.header_social_icon li {
+  display: inline-block;
+  margin: 0px 0px 0px 15px;
+}
+.header_social_icon li a {
+  font-size: 12px;
+  color: #fff;
+}
+
+
+.header_area_seven {
+  position: relative;
+}
+
+.header_area_seven .header_top {
+  position: fixed;
+  z-index: 9999;
+  width: 100%;
+  background: #5e2ced;
+  padding: 0px;
+}
+.header_area_seven .header_top a {
+  line-height: 50px;
+  opacity: 0.7;
+  transition: opacity 0.2s linear;
+}
+.header_area_seven .header_top a:hover {
+  opacity: 1;
+}
+.header_area_seven .header_top .header_contact_info li i {
+  vertical-align: middle;
+}
+.header_area_seven .header_top .header_contact_info li a {
+  color: #fff;
+}
+.header_area_seven .header_top .header_social_icon {
+  border-left: 1px solid #7444ff;
+  padding-left: 22px;
+  margin-left: 40px;
+}
+.header_area_seven .header_top .header_top_menu {
+  text-align: right;
+  margin-bottom: 0px;
+}
+.header_area_seven .header_top .header_top_menu li {
+  display: inline-block;
+}
+.header_area_seven .header_top .header_top_menu li:before {
+  content: "";
+  width: 1px;
+  height: 11px;
+  background: #8e6bf7;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0px 17px 0px 15px;
+}
+.header_area_seven .header_top .header_top_menu li a {
+  font-size: 12px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  color: #fff;
+  transition: opacity 0.2s linear;
+}
+.header_area_seven .header_top .header_top_menu li:first-child:before {
+  display: none;
+}
+
+/*custom*/
+
+.header_area_seven .header_top {
+  background-color: #e45038;
+  background-color: #fff;
+}
+
+.header_area_seven .header_top .header_social_icon {
+  border-left: 1px solid #fff;
+  border-left: 1px solid #000;
+}
+
+.header_area_seven .header_top .header_top_menu li:before {
+  background: #fff;
+  background: #000;
+}
+
+.header_area_seven .header_top a {
+  line-height: 5px;
+}
+
+.header_area_seven .header_top .header_contact_info li a, .header_area_seven .header_top .header_top_menu li a, .header_social_icon li a, .header_contact_info li {
+  color: #000;
+  text-transform: none;
+}
+
+.header_contact_info {
+  padding: 0;
+}
+
+.header_top_menu b {
+  color: #e45038;
+}

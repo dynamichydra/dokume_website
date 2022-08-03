@@ -1,0 +1,37 @@
+[{
+	"NAME": "Simon Schell",
+	"DESCRIPTION": "DJB Athletik Trainer",
+	"AVATAR": "https://dokume.net/backend/src/functions.php/storage/avatar/739",
+	"TESTIMONIAL": "Ich schätze an DokuMe vorallem den detaillierten Zuschnitt auf die eigenen Bedürfnisse. Als Endprodukt unserer Zusammenarbeit erhalte ich eine detaillierte Auswertung der Entwicklung meiner Athleten - dies spart mir Unmengen an Zeit und Aufwand, welche ich somit in die direkte Betreuung investieren kann!",
+  "TYPE": 0
+}, {
+	"NAME": "Hans van Essen",
+	"DESCRIPTION": "CEO JudoInside",
+	"AVATAR": "img/dokume_team/empty_pic.png",
+	"TESTIMONIAL": "Die Zusammenarbeit mit DokuMe ist immer informell, schnell und leidenschaftlich. Das passt zu den Werten von JudoInside. Sie können darauf vertrauen, dass ihre Veranstaltung von einem Team betreut wird, das ein klares Verständnis und Erfahrung mit Veranstaltungen hat. DokuMe macht den Veranstaltungsbetrieb so viel einfacher.",
+  "TYPE": 0
+}, {
+	"NAME": "Stefan Gerhardt",
+	"DESCRIPTION": "Trainer - Judo Team Gundelfingen",
+	"AVATAR": "https://dokume.net/platform/files.php/avatar/12698",
+	"TESTIMONIAL": "Ich muss nach wenigen Tagen feststellen, dass es hervorragend klappt!! :) Die Mitglieder können sich zum Training anmelden und man sieht zentral wann, wer zum Training kommt! Einfach nur Klasse!!",
+  "TYPE": 0
+}, {
+	"NAME": "Alexander Resch",
+	"DESCRIPTION": "Vorstand Leistungssport-Management BSD",
+	"AVATAR": "img/dokume_team/empty_pic.png",
+	"TESTIMONIAL": "DokuMe ermöglicht uns mit seinen zahlreichen Funktionen und Tools die Digitalisierung unseres Verbands. Somit nehmen wir eine Art Vorreiterstellung im deutschen Verbandswesen ein.",
+  "TYPE": 0
+}, {
+	"NAME": "Tanja Wagner",
+	"DESCRIPTION": "Bob- und Schlittenverband für Deutschland",
+	"AVATAR": "https://dokume.net/backend/src/functions.php/storage/avatar/7368",
+	"TESTIMONIAL": "Ich feiere echt eure Fotodatenbank!!! Echt toll gemacht, Jungs! Die erleichtert mir so dermaßen das Leben! 🥳",
+  "TYPE": 0
+}, {
+	"NAME": "Richard Trautmann",
+	"DESCRIPTION": "Judo Bundestrainer Männer",
+	"AVATAR": "https://dokume.net/backend/src/functions.php/storage/avatar/5",
+	"TESTIMONIAL": "Egal ob mit Handy oder Smartphone, mit ein paar Klicks ist alles erledigt. Zusammen mit der Tatsache, dass die Judoka sich auch selbst ganz leicht analysieren können erhöht das die Akzeptanz bei den Athleten deutlich. Ich kenne kein besseres Hilfsmittel zur Planung und Analyse im Leistungssport Judo!",
+  "TYPE": 0
+}]

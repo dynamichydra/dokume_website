@@ -1,0 +1,61 @@
+[{
+	"TITLE": "<span class='orange'>Neu:</span> CORONA-Gästeregistrierung",
+	"ICON": "<i class='ti-location-arrow'></i>",
+	"DESCRIPTION": "Nutze Formulare zur Registrierung von Gästen oder Erhebung von Gesundheitsdaten – voll automatisiert, sicher erfasst, zeitgerecht gelöscht – und einfach eingebunden.",
+  "IMG": "img/products/products_22.png"
+}, {
+	"TITLE": "Projektmanagement",
+	"ICON": "<i class='ti-search'></i>",
+	"DESCRIPTION": "Ob Kanbanboard, Aufgaben oder Analyse – deine neue Projektmanagement-Software digitalisiert und vereinfacht Prozesse, damit du immer alles im Blick hast.",
+  "IMG": "img/products/products_13.png"
+}, {
+	"TITLE": "Social Wall",
+	"ICON": "<i class='ti-stats-up'></i>",
+	"DESCRIPTION": "Lass‘ deine Kunden mitfühlen, dein Publikum mitfiebern. Deine Social Wall sammelt den besten Content deiner Social-Media-Feeds auf einen Blick – für nachhaltiges Kunden-Engagement, authentisch vermittelt. ",
+  "IMG": "img/products/products_21.png"
+}, {
+	"TITLE": "Kundenverwaltung / CRM ",
+	"ICON": "<i class='ti-check'></i>",
+	"DESCRIPTION": "Voller Kundensupport durch effiziente Prozesse – dein CRM-Tool verschafft dir Zeit für das Wesentliche, indem es Operatives für dich automatisiert und verschlankt.",
+  "IMG": "img/products/products_8.png"
+}, {
+	"TITLE": "Dokumentenablage",
+	"ICON": "<i class='ti-location-arrow'></i>",
+	"DESCRIPTION": "Digital statt verstaubt, gefunden statt gesucht – so und nicht anders sollen Dokumente sein. Mit deiner digitalen Ablage hast du alles kategorisiert und griffbereit und sparst so Papier  - und Nerven.",
+  "IMG": "img/products/products_20.png"
+}, {
+	"TITLE": "Push-App",
+	"ICON": "<i class='ti-search'></i>",
+	"DESCRIPTION": "Nie etwas Wichtiges verpassen: Mit deiner Push-App hältst du Mitarbeiter, Kunden oder Fans immer mit den relevantesten Infos auf dem Laufenden und steigerst die Interaktion – 100% zielgerichtet für größtmöglichen Erfolg. ",
+  "IMG": "img/products/products_12.png"
+}, {
+	"TITLE": "Datenbanken",
+	"ICON": "<i class='ti-stats-up'></i>",
+	"DESCRIPTION": "Das „Gold des digitalen Zeitalters“ sollte gut gelagert werden – am besten in deiner digitalen Datenbank, mit der du Zugriffe einfach regeln, Speicherfristen waren und Informationen effizient abrufen kannst.",
+  "IMG": "img/products/products_15.png"
+}, {
+	"TITLE": "Veranstaltungsmanagement",
+	"ICON": "<i class='ti-check'></i>",
+	"DESCRIPTION": "Von Planung & Registrierung über Durchführung bis zur Nachbereitung – dein Veranstaltungsmanagement-Tool unterstützt dich bei jedem Schritt, damit einem gelungene Event nichts im Wege steht.",
+  "IMG": "img/products/products_11.png"
+}, {
+	"TITLE": "Formulare",
+	"ICON": "<i class='ti-location-arrow'></i>",
+	"DESCRIPTION": "Ob Newsletter-Anmeldung, Registrierung, Umfrage oder Selbstauskunft – deine Formulare passen ganz zu deinem Bedarf, einfach per Plug-In eingebunden und schnell ausgewertet.",
+  "IMG": "img/products/products_16.png"
+}, {
+	"TITLE": "Chatbot",
+	"ICON": "<i class='ti-search'></i>",
+	"DESCRIPTION": "Maximaler Kundensupport, minimaler Aufwand - dein Chatbot beantwortet Useranfragen in Echtzeit, qualifiziert und sympathisch. ",
+  "IMG": "img/products/products_17.png"
+}, {
+	"TITLE": "Website Analytics",
+	"ICON": "<i class='ti-stats-up'></i>",
+	"DESCRIPTION": "Kontrolliere, welche Inhalte auf deiner Website wirklich zählen – so passt du deine Inhalte perfekt auf die Bedürfnisse deiner Kunden an und erreichst deine Ziele noch besser.",
+  "IMG": "img/products/products_19.png"
+}, {
+	"TITLE": "Zeitaufzeichnung",
+	"ICON": "<i class='ti-check'></i>",
+	"DESCRIPTION": "Stempeluhren sind von gestern – nicht erst seit Zeiten des Homeoffices ;) Dein Team wird sie lieben, die digitale Zeitaufzeichnung , ganz einfach per Smartphone.",
+  "IMG": "img/products/products_18.png"
+}]

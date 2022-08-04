@@ -71,7 +71,7 @@
             </div>
             <div class="contact_info_item">
               <h6 class="f_p f_size_20 t_color3 f_500 mb_20">contact information</h6>
-              <p class="f_400 f_size_15"><span class="f_400 t_color3">Phone:</span> <a href="tel:00491704978632">+91 92300 62065</a></p>
+              <p class="f_400 f_size_15"><span class="f_400 t_color3">Phone:</span> <a href="tel:00919230062065">+91 92300 62065</a></p>
               <p class="f_400 f_size_15"><span class="f_400 t_color3">Email:</span> <a href="mailto:info@dokume.net">info@dokume.in</a></p>
             </div>
           </div>

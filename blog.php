@@ -52,8 +52,8 @@
             <img class="breadcrumb_shap" src="websiteNEWASSETS/img/breadcrumb/banner_bg.png" alt="">
             <div class="container">
                 <div class="pos_banner_text text-center">
-                    <h6>Was gibt's Neues?</h6>
-                    <h2>Bleib auf dem Laufenden und abboniere unsere Social Media Kanäle.</h2>
+                    <h6>WHAT'S NEW</h6>
+                    <h2>Stay up to date and subscribe to our social media channels.</h2>
                 </div>
             </div>
         </section>

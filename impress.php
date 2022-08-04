@@ -30,44 +30,43 @@
           <div class="sec_title mb_70">
             <br><br>
             <h2>Impressum</h2>
-            <h3 class="f_p f_size_22 f_500 t_color3 mb_20" data-i18n="">Angaben gemäß § 5 TMG</h3>
+            <h3 class="f_p f_size_22 f_500 t_color3 mb_20" data-i18n="">According to § 5 TMG</h3>
           </div>
 
           <p class="f_400 f_size_15">
-            DokuMe UG (haftungsbeschränkt)
+            DokuMe UG (limited liability)
             <br /> Fritz-Figge-Str. 13
             <br /> D-50823 K&ouml;ln
             <br />
             <br />
-            <strong>Telefon:</strong> <a href="tel:00491704978632" style="color: #444;"> +49 170 49 78 632</a>
+            <strong>Telephone:</strong> <a href="tel:00919230062065" style="color: #444;"> +91 92300 62065</a>
             <br />
             <br />
-            <strong>E-Mail:</strong><a href="mailto:info@dokume.net" style="color: #444;"> info@dokume.net</a>
+            <strong>E-Mail:</strong><a href="mailto:info@dokume.in" style="color: #444;"> info@dokume.in</a>
             <br />
-            <strong>Internet:</strong> <a href="http://www.dokume.net" style="color: #444;"> www.dokume.net</a>
-            <br />
-            <br />
-            <strong>Inhaltlich Verantwortlich:</strong>
-            <br /> DokuMe UG (haftungsbeschränkt)
+            <strong>Internet:</strong> <a href="http://www.dokume.in" style="color: #444;"> www.dokume.in</a>
             <br />
             <br />
-            <strong>Geschäftsführer:</strong>
+            <strong>Responsible for content:</strong>
+            <br /> DokuMe UG (limited liability)
+            <br />
+            <br />
+            <strong>Managing Director:</strong>
             <br />Nicki Graczyk
             <br />
             <br />
-            <strong>Handelsregister:</strong> HRB 90527 / Amtsgericht Köln<br />
+            <strong>Commercial register: </strong> HRB 90527 / District Court of Cologne Tax<br />
             <br />
-            <strong>Steuernummer:</strong> 217/5723/2021<br />
+            <strong>number:</strong> 217/5723/2021<br />
             <br />
-            <strong>USt-IdNr.:</strong> DE314281314<br />
+            <strong>VAT ID:</strong> DE314281314<br />
             <br />
-            <strong>Haftungshinweis:</strong>
-            <br /> Trotz sorgf&auml;ltiger inhaltlicher Kontrolle &uuml;bernehmen wir keine Haftung f&uuml;r die Inhalte externer Links. F&uuml;r den Inhalt der verlinkten Seiten sind ausschlie&szlig;lich deren Betreiber verantwortlich.
+            <strong>Disclaimer:</strong>
+            <br /> Despite careful content control, we assume no liability for the content of external links. The operators of the linked pages are solely responsible for their content.
             <br />
             <br />
             <strong>Copyright:</strong>
-            <br /> Alle Rechte vorbehalten. Ohne Zustimmung von DokuMe UG (haftungsbeschränkt) ist es verboten, textliche und fotografische Inhalte dieser Internetseite im ganzen oder in Teilen zu nutzen, zu vervielf&auml;ltigen, zu verbreiten
-            oder zu verwerten. Die Inhalte d&uuml;rfen nicht ver&auml;ndert oder bearbeitet werden.
+            <br /> All rights reserved. Without the consent of DokuMe UG (limited liability) it is forbidden to use, reproduce, distribute or exploit textual and photographic content of this website in whole or in part. The content may not be changed or edited.
             <br />
             <br />
             <!--<strong>Konzept, Design &amp; Programmierung:</strong>

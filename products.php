@@ -162,11 +162,10 @@
       <div class="shape two"></div>
       <div class="container">
         <div class="payment_banner_content wow fadeInLeft;" data-wow-delay="0.4s">
-          <h1 class="f_p f_700 f_size_50 w_color">EINE LÖSUNG FÜR ALL<br>DEINE AUFGABEN</h1>
-          <p class="w_color f_p f_size_18">Damit bei deinen vielfältigen Aufgaben genug Zeit für wichtige Themen bleibt,<br>automatisiert und vereinfacht DokuMe deine Tätigkeiten in einer Plattform.<br>Dabei profitierst Du von Daten und Prozessen, die
-            nahtlos ineinander greifen.</p>
+          <h1 class="f_p f_700 f_size_50 w_color">ONE SOLUTION FOR ALL<br>YOUR TASKS</h1>
+          <p class="w_color f_p f_size_18">DokuMe automates and simplifies your activities in one platform so that there is enough time<br>for important topics in your diverse tasks .<br>You benefit from data and processes that mesh seamlessly.</p>
             <div style="width: 100%;text-align: left;">
-              <a href="contact.php" class="mt_30 seo_btn seo_btn_one btn_hover" style="background-color: #e45039;color: #fff">>> Jetzt kostenlos anmelden.</a>
+              <a href="contact.php" class="mt_30 seo_btn seo_btn_one btn_hover" style="background-color: #e45039;color: #fff">>> Register now for free.</a>
             </div>
         </div>
       </div>
@@ -216,9 +215,8 @@
           <div class="col-lg-7">
             <div class="h_features_content">
               <div class="hosting_title">
-                <h2 class="uppercase">Wir sind die Crew,<br> Du bist Houston</h2>
-                <p>Wir bringen dich sicher durch das digitale Universum, mit einer individuellen Gesamtlösung für dich, oder erprobter Technologie aus den Erfolgen anderer Missionen. Dabei behältst du Überblick und Kontrolle, wir sorgen für die
-                  konsequente Umsetzung und Sicherheit an Bord.</p>
+                <h2 class="uppercase">WE ARE THE CREW,<br> YOU ARE HOUSTON</h2>
+                <p>We bring you safely through the digital universe, with an individual overall solution for you, or proven technology from the successes of other missions. You keep an overview and control, we ensure the consistent implementation and safety on board.</p>
               </div>
               <!--<div class="media h_features_item">
                 <img src="http://droitthemes.com/html/saasland/img/hosting/icon7.png" alt="">
@@ -234,10 +232,11 @@
                   <p>Hunky dory barney fanny around up the duff no biggie.</p>
                 </div>-->
               <ul class="list-unstyled mb-30">
-                <li><i class="ti-arrow-circle-right"></i> Plattform Entwicklung</li>
-                <li><i class="ti-arrow-circle-right"></i> Webentwicklung</li>
-                <li><i class="ti-arrow-circle-right"></i> CRM Systeme</li>
-                <li><i class="ti-arrow-circle-right"></i> Projektmanagement Tools</li>
+                <li><i class="ti-arrow-circle-right"></i> platform development</li>
+                <li><i class="ti-arrow-circle-right"></i> web development
+</li>
+                <li><i class="ti-arrow-circle-right"></i> CRM systems</li>
+                <li><i class="ti-arrow-circle-right"></i> Project Management Tools</li>
                 <li><i class="ti-arrow-circle-right"></i> SEO</li>
               </ul>
             </div>
@@ -258,10 +257,9 @@
           <div class="col-lg-6">
             <div class="h_features_content">
               <div class="hosting_title">
-                <h2 class="uppercase">Prozesse, die nahtlos ineinander greifen</h2>
+                <h2 class="uppercase">PROCESSES THAT MESH SEAMLESSLY</h2>
                 <p class=left>
-                  Reibungslose Prozesse – und klare Strukturen. Mit präzisen Zugriffsrechten können Mitarbeiter und Führungskräfte selbst auf Informationen im System zugreifen. Lege Genehmigungen in die Hand von Vorgesetzten, spare Zeit
-                  mit perfektem Projektmanagement und lasse dich automatisch an wichtige Termine erinnern.</p>
+                  Smooth processes – and clear structures. With precise access rights, employees and managers can access information in the system themselves. Put approvals in the hands of superiors, save time with perfect project management and be automatically reminded of important dates.</p>
               </div>
             </div>
           </div>
@@ -292,16 +290,16 @@
             <div class="media h_features_item">
               <img src="websiteNEWASSETS/img/hosting/icon9.png" alt="">
               <div class="media-body">
-                <h4 class="h_head">Dein Vorteil:</h4>
-                <p>Rasche Einsatzfähigkeit und sichere Stabilität dank langer Erfolgs-<br>erprobung. Aber auch darüber hinaus sind deiner Mission keine Grenzen gesetzt: </p>
+                <h4 class="h_head">Your advantage:</h4>
+                <p>Rapid operational readiness and safe stability thanks to long-term success
+testing. But beyond that, there are no limits to your mission: </p>
               </div>
             </div>
             <div class="media h_features_item">
               <img src="websiteNEWASSETS/img/hosting/icon10.png" alt="">
               <div class="media-body">
-                <h4 class="h_head">Wir entwickeln, was Du brauchst.</h4>
-                <p>Lass dich von unseren Erfolgsgeschichten
-                  inspirieren.</p>
+                <h4 class="h_head">We develop what you need.</h4>
+                <p>Be inspired by our success stories.</p>
               </div>
             </div>
           </div>
@@ -323,10 +321,9 @@
         </div>
         <div class="col-md-6">
           <div class="h_action_content">
-            <h2 class="uppercase">Viele Lösungen für alle</h2>
+            <h2 class="uppercase">MANY SOLUTIONS FOR EVERYONE</h2>
             <h3 style="color:white">Sharing is caring:</h3>
-            <p>Profitiere vom Einsatz unserer vielzähligen bereits existierenden und erfolgserprobten Modulen: Individualisiert für dein Unternehmen, per Plug-In flexibel einzubinden in Deine bestehende IT-Struktur, einfach zu
-              handhaben.</p>
+            <p>Benefit from the use of our numerous existing and tried and tested modules: Individualized for your company, flexibly integrated into your existing IT structure via plug-in, easy to handle.</p>
             <!--<a href="" class="hosting_btn btn_hover">Product Docs</a>-->
           </div>
         </div>
@@ -340,10 +337,9 @@
     <div class="container">
 
       <div class="hosting_title text-center">
-        <h2 class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">EINE PLATTFORM - <br>UNZÄHLIGE MÖGLICHKEITEN</h2>
+        <h2 class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">ONE PLATFORM - <br>COUNTLESS POSSIBILITIES</h2>
 
-        <p class="wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">In unserer Galaxie bieten wir eine Vielzahl an Funktionen, die je nach Wunsch aktiviert und deaktiviert werden
-          können.
+        <p class="wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">In our galaxy we offer a multitude of functions that can be activated and deactivated as desired.
         </p><br>
         <div class="icon" style="text-align: center;">
           <img src="websiteNEWASSETS/img/products/products_7.png" width="10%" height="10%" alt="">
@@ -353,33 +349,33 @@
 
         <?php
 
-        $string = file_get_contents("includes/companyProducts.json");
-        $json = json_decode($string, true);
-        $i = 0;
-        $icons = ["s_icon_one", "s_icon_two", "s_icon_three", "s_icon_four"];
+        // $string = file_get_contents("includes/companyProducts.json");
+        // $json = json_decode($string, true);
+        // $i = 0;
+        // $icons = ["s_icon_one", "s_icon_two", "s_icon_three", "s_icon_four"];
 
-        foreach ($json as $key => $product) {
-            echo '
-            <div class="col-lg-4 col-sm-6">
-              <div class="hosting_service_item">
-                <div class="icon">
-                  <img src="'.$product['IMG'].'" width="100%" height="100%" alt="">
-                </div>
-                <a href="#">
-                  <h4 class="h_head">'.$product['TITLE'].'</h4>
-                </a>
-                <p>'.$product['DESCRIPTION'].'</p>
+        // foreach ($json as $key => $product) {
+        //     echo '
+        //     <div class="col-lg-4 col-sm-6">
+        //       <div class="hosting_service_item">
+        //         <div class="icon">
+        //           <img src="'.$product['IMG'].'" width="100%" height="100%" alt="">
+        //         </div>
+        //         <a href="#">
+        //           <h4 class="h_head">'.$product['TITLE'].'</h4>
+        //         </a>
+        //         <p>'.$product['DESCRIPTION'].'</p>
 
-              </div>
-            </div>
-            ';
+        //       </div>
+        //     </div>
+        //     ';
 
-            $i++;
+        //     $i++;
 
-            if ($i > 3) {
-              $i = 0;
-            }
-        }
+        //     if ($i > 3) {
+        //       $i = 0;
+        //     }
+        // }
 
         ?>
 
@@ -460,9 +456,9 @@
                 <img src="websiteNEWASSETS/img/products/products_5.png" width="20%" height="20%" alt="">
             </div>
             <a href=" #"><br><br>
-                <h4 style="color:#011E43;" class="h_head">DEINE PROJEKTE</h4>
+                <h4 style="color:#011E43;" class="h_head">YOUR PROJECTS</h4>
                 </a>
-                <p>Unzähle Ideen – bestmögliche Umsetzung.<br>Sprich uns an, gemeinsam finden wir die beste Lösung für die digitale Umsetzung Deines Projektes.<br><br>
+                <p>Countless ideas – best possible implementation.<br>Talk to us, together we will find the best solution for the digital implementation of your project.<br><br>
                 </p>
               </div>
 
@@ -471,7 +467,7 @@
           <br><br>
           <div class="icon" style="text-align: center;">
             <img src="websiteNEWASSETS/img/products/products_6.png" width="10%" height="10%" alt=""><br><br>
-            <p>Wir freuen uns auf Dich!</p>
+            <p>We look forward to you!</p>
             <div>
   </section>
 

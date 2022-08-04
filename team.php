@@ -427,7 +427,7 @@
             <div class="hover_content">
               <div class="n_hover_content">
                 <ul class="list-unstyled">
-                  <li><a href="mailto:rdebnath@dokume.net"><i class="far fa-envelope"></i></a></li>
+                  <li><a href="mailto:rdebnath@dokume.in"><i class="far fa-envelope"></i></a></li>
                   <li><a href="https://www.facebook.com/dynamichydra"><i class="fab fa-facebook-f"></i></a></li>
                   <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                   <li><a href="https://www.instagram.com/tigerente74/"><i class="fab fa-instagram"></i></a></li>
@@ -436,6 +436,63 @@
                 <div class="br"></div>
                 <a href="#">
                   <h3 class="f_p f_size_16 f_600 t_color3">Rubel</h3>
+                </a>
+                <h5>Developer</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-sm-6">
+          <div class="ex_team_item">
+            <img src="websiteNEWASSETS/img/dokume_team/Team_male2_empty-pic.png" alt="Rubel">
+            <div class="team_content">
+              <a href="#">
+                <h3 class="f_p f_size_16 f_600 t_color3">Bikramjit Saha</h3>
+              </a>
+              <h5>Developer</h5>
+            </div>
+            <div class="hover_content">
+              <div class="n_hover_content">
+                <ul class="list-unstyled">
+                  <li><a href="mailto:bikram@dokume.in"><i class="far fa-envelope"></i></a></li>
+                  <li><a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a></li>
+                  <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                  <li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a></li>
+                  <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                </ul>
+                <div class="br"></div>
+                <a href="#">
+                  <h3 class="f_p f_size_16 f_600 t_color3">Bikramjit Saha</h3>
+                </a>
+                <h5>Developer</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="col-lg-3 col-sm-6">
+          <div class="ex_team_item">
+            <img src="websiteNEWASSETS/img/dokume_team/Team_male2_empty-pic.png" alt="Rubel">
+            <div class="team_content">
+              <a href="#">
+                <h3 class="f_p f_size_16 f_600 t_color3"> Niraj Singh</h3>
+              </a>
+              <h5>Developer</h5>
+            </div>
+            <div class="hover_content">
+              <div class="n_hover_content">
+                <ul class="list-unstyled">
+                  <li><a href="mailto:niraj@dokume.net"><i class="far fa-envelope"></i></a></li>
+                  <li><a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a></li>
+                  <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                  <li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a></li>
+                  <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                </ul>
+                <div class="br"></div>
+                <a href="#">
+                  <h3 class="f_p f_size_16 f_600 t_color3"> Niraj Singh</h3>
                 </a>
                 <h5>Developer</h5>
               </div>

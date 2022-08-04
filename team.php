@@ -231,8 +231,8 @@
         </div>
         <div class="container">
           <div class="pos_banner_text text-center">
-            <h6>DIVERSITÄT MAKES US STRONG</h6>
-            <h1>Viele schlaue Köpfe arbeiten<br>voller Tatendrang für unsere Kunden</h1>
+            <h6>DIVERSITY MAKES US STRONG</h6>
+            <h1>Many clever minds work full of energy for our customers</h1>
               <!--Mit unserer Software digitalisieren und vereinfachen wir zeitraubende Prozesse und schaffen so Zeit für essentielle Themen.</span></h2>
             <!--<div class="action_btn d-flex align-items-center justify-content-center wow fadeInLeft" data-wow-delay="0.6s">
               <a href="#" class="software_banner_btn">Request a Demo</a>
@@ -248,9 +248,8 @@
   <section class="experts_team_area sec_pad">
     <div class="container">
       <div class="sec_title text-center mb_70">
-        <h2 class="f_p f_size_30 l_height30 f_700 t_color3 mb_20 uppercase">Wir freuen uns auf eure Nachricht</h2>
-        <p class="f_400 f_size_16">Neben dem Kernteam arbeiten viele schlaue Köpfe an DokuMe, um dir das beste Produkt zu bieten. Unser Team besteht aus Trainern, Sportlern, Technikern und anderen Experten aus allen Bereichen. Ob Fragen,
-          Fehlermeldungen, Beschwerden, Lob, Wünsche oder Ideen - jedes Bisschen hilft. Lass uns wissen, wie wir DokuMe verbessern können.</p>
+        <h2 class="f_p f_size_30 l_height30 f_700 t_color3 mb_20 uppercase">WE LOOK FORWARD TO YOUR MESSAGE</h2>
+        <p class="f_400 f_size_16">In addition to the core team, many smart people work on DokuMe to offer you the best product. Our team consists of coaches, athletes, technicians and other experts from all areas. Questions, error messages, complaints, praise, requests or ideas - every little bit helps. Let us know how we can improve DokuMe.</p>
       </div>
       <div class="row">
         <div class="col-lg-3 col-sm-6">
@@ -332,7 +331,10 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-3 col-sm-6">
+
+
+        <!-- remove -->
+        <!-- <div class="col-lg-3 col-sm-6">
           <div class="ex_team_item">
             <img src="websiteNEWASSETS/img/dokume_team/Team_female1_empty-pic.png" alt="Mia">
             <div class="team_content">
@@ -410,7 +412,9 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
+        <!-- remove -->
+
         <div class="col-lg-3 col-sm-6">
           <div class="ex_team_item">
             <img src="websiteNEWASSETS/img/dokume_team/Team_male2_empty-pic.png" alt="Rubel">
@@ -438,7 +442,9 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-3 col-sm-6">
+
+        <!-- remove -->
+        <!-- <div class="col-lg-3 col-sm-6">
           <div class="ex_team_item">
             <img src="websiteNEWASSETS/img/dokume_team/Team_male1_empty-pic.png" alt="Toni">
             <div class="team_content">
@@ -672,7 +678,9 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
+        <!-- remove -->
+
       </div>
     </div>
   </section>
@@ -684,8 +692,8 @@
   <section class="sass_partner_logo_area sec_pad">
     <div class="container">
       <div class="sec_title text-center wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-        <h2 class="f_p f_size_30 l_height50 f_600 t_color">EIN AUSZUG UNSERER KUNDEN</h2>
-        <p class="f_400 f_size_16">Damit DokuMe Ihnen den größtmöglichen Mehrwert bietet, tauschen wir uns stets mit unseren Kunden aus. Das sagen sie selbst über die Arbeit mit uns und unserer Software.</p>
+        <h2 class="f_p f_size_30 l_height50 f_600 t_color">AN ABSTRACT OF OUR CUSTOMERS</h2>
+        <p class="f_400 f_size_16">To ensure that DokuMe offers you the greatest possible added value, we constantly exchange information with our customers. That's what they say about working with us and our software.</p>
       </div>
       <div class="partner_logo_area_four">
         <div class="row partner_info">
@@ -751,9 +759,8 @@
       </svg>
     </div>
     <div class="sec_title text-center mb_50 wow fadeInUp" data-wow-delay="0.4s">
-      <h2 class="f_p f_size_30 l_height50 f_600 t_color">DOKU<font color="#E45038">ME<font color="#051441"> JETZT 14 TAGE KOSTENLOS TESTEN</h2>
-      <p class="f_400 f_size_18 l_height34">Finde heraus, wie DokuMe auch Deine Arbeit
-        noch leichter, schneller und besser machen kann.<br>Schreibe uns - wir kontaktieren dich gerne.</p>
+      <h2 class="f_p f_size_30 l_height50 f_600 t_color">TEST DOKU<font color="#E45038">ME<font color="#051441"> NOW FOR 14 DAYS FOR FREE</h2>
+      <p class="f_400 f_size_18 l_height34">Find out how DokuMe can make your work even easier, faster and better.<br>Write to us - we will be happy to contact you.</p>
     </div>
     <form class="mailchimp wow fadeInUp" data-wow-delay="0.6s" method="post">
       <div class="input-group s_subcribes">

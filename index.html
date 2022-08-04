@@ -105,12 +105,13 @@
 
   <script>
     'use strict';
+    localStorage.setItem('websiteType', 1);
 
     (function () {
 
       document.querySelectorAll('[data-websitetype]').forEach(item => {
         item.addEventListener('click', e => {
-          localStorage.setItem('websiteType', item.dataset.websitetype);
+          localStorage.setItem('websiteType', 1);
         })
       })
     })();

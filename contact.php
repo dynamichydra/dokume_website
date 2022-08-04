@@ -45,7 +45,7 @@
       <img class="breadcrumb_shap" src="websiteNEWASSETS/img/breadcrumb/banner_bg.png" alt="">
       <div class="container">
         <div class="breadcrumb_content text-fadeInLeft">
-          <h1 class="f_p f_700 f_size_50 w_color l_height50 mb_20">KONTAKT.<br>Lass uns gemeinsam abheben.</h1>
+          <h1 class="f_p f_700 f_size_50 w_color l_height50 mb_20">CONTACT.<br>Let's take off together.</h1>
         </div>
       </div>
     </section>
@@ -66,13 +66,13 @@
         <div class="row">
           <div class="col-lg-3 pr-0">
             <div class="contact_info_item">
-              <h6 class="f_p f_size_20 t_color3 f_500 mb_20">Postadresse</h6>
+              <h6 class="f_p f_size_20 t_color3 f_500 mb_20">postal address</h6>
               <p class="f_400 f_size_15">Fritz-Figge-Str. 13, D-50823 Köln</p>
             </div>
             <div class="contact_info_item">
-              <h6 class="f_p f_size_20 t_color3 f_500 mb_20">Kontaktinformationen</h6>
-              <p class="f_400 f_size_15"><span class="f_400 t_color3">Telefon:</span> <a href="tel:00491704978632">+49 170 49 78 632</a></p>
-              <p class="f_400 f_size_15"><span class="f_400 t_color3">Email:</span> <a href="mailto:info@dokume.net">info@dokume.net</a></p>
+              <h6 class="f_p f_size_20 t_color3 f_500 mb_20">contact information</h6>
+              <p class="f_400 f_size_15"><span class="f_400 t_color3">Phone:</span> <a href="tel:00491704978632">+91 92300 62065</a></p>
+              <p class="f_400 f_size_15"><span class="f_400 t_color3">Email:</span> <a href="mailto:info@dokume.net">info@dokume.in</a></p>
             </div>
           </div>
           <div class="col-lg-8 offset-lg-1">
@@ -98,31 +98,31 @@
                 <div class="row">
                   <div class="col-lg-6">
                     <div class="form-group text_box">
-                      <input type="text" id="name" name="name" placeholder="Dein Name" data-fieldid="300">
+                      <input type="text" id="name" name="name" placeholder="Your Name" data-fieldid="300">
                     </div>
                   </div>
                   <div class="col-lg-6">
                     <div class="form-group text_box">
-                      <input type="text" name="email" id="DM_EMAIL_INPUT" placeholder="Deine Email">
+                      <input type="text" name="email" id="DM_EMAIL_INPUT" placeholder="Your Email">
                     </div>
                   </div>
                   <div class="col-lg-12">
                     <div class="form-group text_box">
-                      <input type="text" id="subject" name="subject" placeholder="Betreff" data-fieldid="302">
+                      <input type="text" id="subject" name="subject" placeholder="Subject" data-fieldid="302">
                     </div>
                   </div>
                   <div class="col-lg-12">
                     <div class="form-group text_box">
-                      <textarea name="message" id="message" cols="30" rows="10" placeholder="Wie lautet deine Nachricht?" data-fieldid="303"></textarea>
+                      <textarea name="message" id="message" cols="30" rows="10" placeholder="What's your message?" data-fieldid="303"></textarea>
                     </div>
                   </div>
                   <div class="col-lg-12">
                     <div class="form-group text_box">
-                      <p class="f_400 t_color3">* Informationen zur Verarbeitung Ihrer Daten finden Sie in unserer <a href="https://dokume.net/privacy.php">Datenschutzerklärung</a>.</p>
+                      <p class="f_400 t_color3">* Information on the processing of your data can be found in our <a href="https://dokume.net/privacy.php">data protection declaration</a>.</p>
                     </div>
                   </div>
                 </div>
-                <button id="saveMemberBTN" class="btn_three">Nachricht senden</button>
+                <button id="saveMemberBTN" class="btn_three">Send Message</button>
               </div>
               <div id="success">Your message succesfully sent!</div>
               <div id="error">Opps! There is something wrong. Please try again</div>

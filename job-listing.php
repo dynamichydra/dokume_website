@@ -24,7 +24,7 @@
       <img class="breadcrumb_shap" src="websiteNEWASSETS/img/breadcrumb/banner_bg.png" alt="">
       <div class="container">
         <div class="breadcrumb_content text-fadeInLeft">
-          <h1 class="f_p f_700 f_size_50 w_color l_height50 mb_20">KARRIERE.<br>Lass uns gemeinsam abheben.</h1>
+          <h1 class="f_p f_700 f_size_50 w_color l_height50 mb_20">CAREER.<br>Let's take off together.</h1>
         </div>
       </div>
     </section>
@@ -32,10 +32,8 @@
     <section class="job_listing_area bg_color sec_pad">
       <div class="container">
         <div class="sec_title mb_70">
-          <h2 class="f_p f_size_24 l_height28 f_700 t_color3 mb_20">Wer wir sind</h2>
-          <p class="f_400 f_size_15">DokuMe ist ein junges Unternehmen mit Sitz in Köln. 2013 begann unser Team mit der Entwicklung einer digitalen Plattform zur Erfassung und Analyse von Trainingsdaten von Judo-Leistungssport- lern. Seitdem haben
-            wir unseren Kundenstamm stetig vergrößert und ausgebaut. Dabei steht für uns immer Folgendes im Mittelpunkt: Die Arbeit unserer Kunden mithilfe unserer digitalen Platt- form zu vereinfachen und zu optimieren. Denn DokuMe ist vor allem
-            eins: So individuell anpassbar wie die Bedürfnisse unserer Kunden.</p>
+          <h2 class="f_p f_size_24 l_height28 f_700 t_color3 mb_20">who we are</h2>
+          <p class="f_400 f_size_15">DokuMe is a young company based in Cologne. In 2013, our team began developing a digital platform for collecting and analyzing training data from competitive judo athletes. Since then we have steadily increased and expanded our customer base. We always focus on the following: simplifying and optimizing the work of our customers with the help of our digital platform. Because DokuMe is one thing above all: as individually adaptable as the needs of our customers.</p>
         </div>
 
         <div id="join-widget">
@@ -55,9 +53,8 @@
       <div class="cloud_img" style="background: url(websiteNEWASSETS/img/products/cloud1.png) no-repeat;"></div>
       <div class="container">
         <div class="seo_sec_title text-center mb_70 wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-          <h2>INITIATIVBEWERBUNG</h2>
-          <p>Nichts für dich dabei gewesen? Zögere nicht, dich initiativ bei uns zu bewerben.
-            Wir melden uns, sobald eine Stelle zu deinem Qualifikationsprofil passt.</p>
+          <h2>INITIATIVE APPLICATION</h2>
+          <p>Nothing for you? Do not hesitate to send us an unsolicited application. We will contact you as soon as a position matches your qualification profile.</p>
 <br><br>
             <video src="https://dokume.blob.core.windows.net/user-public-12454/storage/53845.mp4" autoplay="1" loop="1" controls="" style="max-width: 300px;"></video>
         </div>
@@ -68,7 +65,7 @@
           </div>
           <!--<div class="input-group col-md-3 col-sm-12">-->
           <div class="input-group col-sm-12">
-            <a href="contact.php" class="check-btn" style="padding:20px 40px;margin:0 auto;border-radius:5px;" data-i18n="[value]index.contact4">Zum Kontaktformular</a>
+            <a href="contact.php" class="check-btn" style="padding:20px 40px;margin:0 auto;border-radius:5px;" data-i18n="[value]index.contact4">To contact form</a>
           </div>
         </form>
       </div>

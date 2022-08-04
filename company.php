@@ -373,21 +373,20 @@
         <div class="col-lg-7 d-flex align-items-center">
           <div class="prototype_content">
 
-            <h1 class="f_size_40 f_700 w_color l_height50 pr_70 mb_20 wow fadeInLeft" data-wow-delay="0.3s" data-i18n="[html]index.headline1">STELL DIR VOR,<div style="display:block!important">DEINE IDEE WIRD DIGITAL.</div>
+            <h1 class="f_size_40 f_700 w_color l_height50 pr_70 mb_20 wow fadeInLeft" data-wow-delay="0.3s" data-i18n="[html]index.headline1">INTRODUCE YOURSELF,<div style="display:block!important">YOUR IDEA BECOMES DIGITAL.</div>
             </h1><br><br>
             <!--<h3 class="wow fadeInLeft" data-wow-delay="0.3s" style="color: #fff;margin-top: -70px"><br>Schnell, einfach, und grenzgenial.<br>Setz es um. Mit DokuMe.</h3>-->
-            <h3 class="wow fadeInLeft" data-wow-delay="0.3s" style="color: #fff;margin-top: -70px" data-i18n="[html]index.headline2"><br>Du suchst einen Partner, der fertige IT Lösungen bietet –<br>oder deine individuelle mit dir entwickelt?<br>Willkommen bei DokuMe.</h3>
+            <h3 class="wow fadeInLeft" data-wow-delay="0.3s" style="color: #fff;margin-top: -70px" data-i18n="[html]index.headline2"><br>Are you looking for a partner who offers ready-made IT solutions -<br>or develops your individual one with you?<br>Welcome to DokuMe.</h3>
             <p class="f_400 l_height28 wow fadeInLeft" data-wow-delay="0.5s" data-i18n="[html]index.intro">
               <br>
-              Die digitale Welt ist unser Universum: Wir machen keine ‚Rocket Science‘, sondern dein Business digital. Auf unserer DokuMe Plattform laufen alle IT Lösungen ineinander integriert, sicher und transparent. So behältst du jederzeit den
-              Überblick und konfigurierst in wenigen Schritten deine eigene App, Chatbot, oder Social Wall. Einfach, schnell und effizient.
+              The digital world is our universe: we don't do 'rocket science', we do your business digitally. All IT solutions are integrated, secure and transparent on our DokuMe platform. In this way, you always have an overview and can configure your own app, chatbot or social wall in just a few steps. Simple, fast and efficient.
               <br><br>
-              Unsere Mission ist, alles für dich zu geben. Mit unseren IT Lösungen, die flexibel auf deine täglichen
-              Herausforderungen angepasst werden können.
+              Our mission is to give everything for you. With our IT solutions, which can be flexibly adapted to your daily challenges.
               <br>
 
             </p>
-            <h3 style="color:#fff" data-i18n="[html]index.sloganOneSolution">Eben alles für Einen – mit einer Lösung für alles.</h3>
+            <h3 style="color:#fff" data-i18n="[html]index.sloganOneSolution">Everything for one - with a solution for everything.
+</h3>
             <form action="#" class="mailchimp banner_subscribe" method="post">
               <!--  <div class="input-group subcribes wow2 fadeInLeft2" data-wow-delay2="0.6s">
                 <input type="email" name="EMAIL" id="email" class="form-control memail" placeholder="Email">
@@ -395,7 +394,7 @@
               <p class="mchimp-errmessage" style="display: none;"></p>
               <p class="mchimp-sucmessage" style="display: none;"></p>
               <!--<button id="readyBTN" class="btn btn_three btn_hover f_size_15 f_500 wow2 fadeInLeft2" data-wow-delay2="0.8s" type="submit">Ready. > Jetzt Kontakt aufnehmen.</button>-->
-              <a href="contact.php" class="btn btn_three btn_hover f_size_15 f_500 wow2 fadeInLeft2" data-wow-delay2="0.8s" data-i18n="index.contact1">Ready. > Jetzt Kontakt aufnehmen.</a>
+              <a href="contact.php" class="btn btn_three btn_hover f_size_15 f_500 wow2 fadeInLeft2" data-wow-delay2="0.8s" data-i18n="index.contact1">Ready. > Contact us now.</a>
             </form>
           </div>
         </div>
@@ -406,31 +405,30 @@
   <section class="erp_analytics_area">
     <div class="container">
       <div class="hosting_title erp_title text-center">
-        <h2 class="f_p f_size_30 l_height50 f_600 t_color3 uppercase">Was erwartet dich in unserer GALAXIE</h2>
-        <p>Eine Plattform für alles. Wir haben für jede Branche fertige Apps, die auf unserer DokuMe-Plattform beliebig miteinander kombiniert werden können.<br>Und wenn etwas fehlt, können wir die Funktion ganz
-          einfach
-          hinzufügen.</p>
+        <h2 class="f_p f_size_30 l_height50 f_600 t_color3 uppercase">WHAT AWAITS YOU IN OUR GALAXY</h2>
+        <p>One platform for everything. We have ready-to-use apps for every industry that can be combined with one another as desired on our DokuMe platform.
+And if something is missing, we can easily add the function.</p>
       </div>
       <div class="row">
         <div class="col-md-4">
           <div class="erp_analytics_item text-center wow fadeInUp">
             <img src="websiteNEWASSETS/img/index/index3.svg" width="80px" height="80px" alt="">
-            <h3>Für Unternehmen.</h3>
-            <p>Wir beraten, entwickeln und verbinden deine Ideen in einer Plattform mit digitalen Schnittstellen zu vorhandenen Systemen.</p>
+            <h3>For companies.</h3>
+            <p>We advise, develop and connect your ideas in a platform with digital interfaces to existing systems.</p>
           </div>
         </div>
         <div class="col-md-4">
           <div class="erp_analytics_item text-center wow fadeInUp" data-wow-delay="0.2s">
             <img src="websiteNEWASSETS/img/index/index4.svg" width="80px" height="80px" alt="">
-            <h3>Für Sportverbände</h3>
-            <p>Individuallösungen für Sportverbände: Damit der Sport im Fokus ist, nicht die Organisation. Trainingsdokumentation und Verbandsverwaltung.</p>
+            <h3>For sports associations</h3>
+            <p>Individual solutions for sports associations: So that the focus is on the sport and not the organization. Training documentation and association administration.</p>
           </div>
         </div>
         <div class="col-md-4">
           <div class="erp_analytics_item text-center wow fadeInUp" data-wow-delay="0.4s">
             <img src="websiteNEWASSETS/img/index/index1.svg" width="80px" height="80px" alt="">
-            <h3>Fertige Produkte</h3>
-            <p>Nutze unser gereiftes DokuMe Portfolio flexibel für deinen Einsatz: Projektplanung, Social Walls, Formulare und vieles mehr.</p>
+            <h3>Finished Products</h3>
+            <p>Use our mature DokuMe portfolio flexibly for your work: project planning, social walls, forms and much more.</p>
           </div>
         </div>
       </div>
@@ -440,8 +438,8 @@
   <section class="n_awesome_features_area sec_pad" id="features">
     <div class="container">
       <div class="new_sectitle" style="text-align:right">
-        <h2 class="f_p f_size_30 l_height50 f_600 t_color3 uppercase">DEIN ERFOLG IST UNSERE MISSION:<br>
-          DEINE VORTEILE AUF EINEN BLICK</h2>
+        <h2 class="f_p f_size_30 l_height50 f_600 t_color3 uppercase">YOUR SUCCESS IS OUR MISSION:<br>
+          YOUR ADVANTAGES AT A GLANCE</h2>
       </div>
       <div class="row d_flex">
         <div class="col-md-4">
@@ -460,8 +458,8 @@
                     <!--  <img src="https://droitthemes.com/previews/html/neo/images/new/icon/f-1.png" alt="Generic placeholder image">-->
                   </div>
                   <div class="media-body">
-                    <h3 class="n_title_color"><span>1</span> Geschwindigkeit</h3>
-                    <p class="p_color">Wir bieten dir eine Vielzahl bereits entwickelter Apps, die du direkt nutzen kannst. Oder wir entwickeln gemeinsam eine eigene IT-Lösung für dich.</p>
+                    <h3 class="n_title_color"><span>1</span> speed</h3>
+                    <p class="p_color">We offer you a variety of already developed apps that you can use directly. Or we can develop our own IT solution for you together.</p>
                   </div>
                 </div>
                 <div class="media awesome_f_item aw_right2" style="margin-top: 13px;">
@@ -469,8 +467,8 @@
                     <!--   <img src="https://droitthemes.com/previews/html/neo/images/new/icon/f-2.png" alt="Generic placeholder image">-->
                   </div>
                   <div class="media-body">
-                    <h3 class="n_title_color"><span>2</span> Sicherheit</h3>
-                    <p class="p_color">Deine Daten laufen sicher und stabil auf unserer DokuMe Plattform. Du hast jederzeit Zugriff und behältst die Kontrolle.</p>
+                    <h3 class="n_title_color"><span>2</span> security</h3>
+                    <p class="p_color">Your data runs securely and stably on our DokuMe platform. You have access and control at all times.</p>
                   </div>
                 </div>
                 <div class="media awesome_f_item aw_right2">
@@ -478,8 +476,8 @@
                     <!--     <img src="https://droitthemes.com/previews/html/neo/images/new/icon/f-3.png" alt="Generic placeholder image">-->
                   </div>
                   <div class="media-body">
-                    <h3 class="n_title_color"><span>3</span> Einfluss</h3>
-                    <p class="p_color">Du bist Houston! Auf unserer Plattform verwaltest du in Echtzeit und von überall deine IT-Tools selbst.</p>
+                    <h3 class="n_title_color"><span>3</span> influence</h3>
+                    <p class="p_color">you are houston On our platform, you can manage your IT tools yourself in real time and from anywhere.</p>
                   </div>
                 </div>
               </div>
@@ -491,8 +489,8 @@
                     <!--       <img src="https://droitthemes.com/previews/html/neo/images/new/icon/f-4.png" alt="Generic placeholder image">-->
                   </div>
                   <div class="media-body">
-                    <h3 class="n_title_color"><span>4</span> Anbindung</h3>
-                    <p class="p_color">Unsere DokuMe Plattform kommuniziert mit allen IT-Systemen und lässt sich problemlos an deine Schnittstelle anbinden.</p>
+                    <h3 class="n_title_color"><span>4</span> connection</h3>
+                    <p class="p_color">Our DokuMe platform communicates with all IT systems and can be easily connected to your interface.</p>
                   </div>
                 </div>
                 <div class="media awesome_f_item">
@@ -500,8 +498,8 @@
                     <!--       <img src="https://droitthemes.com/previews/html/neo/images/new/icon/f-5.png" alt="Generic placeholder image">-->
                   </div>
                   <div class="media-body">
-                    <h3 class="n_title_color"><span>5</span> Kompetenz</h3>
-                    <p class="p_color">Neben unserer Kern-Crew arbeiten viele schlaue Köpfe an DokuMe, um dir stets das beste Produkt zu bieten.</p>
+                    <h3 class="n_title_color"><span>5</span> competence</h3>
+                    <p class="p_color">In addition to our core crew, many smart people work on DokuMe to always offer you the best product.</p>
                   </div>
                 </div>
                 <div class="media awesome_f_item">
@@ -509,8 +507,8 @@
                     <!--         <img src="https://droitthemes.com/previews/html/neo/images/new/icon/f-6.png" alt="Generic placeholder image">-->
                   </div>
                   <div class="media-body">
-                    <h3 class="n_title_color">Fehlt noch was?</h3>
-                    <p class="p_color">Melde dich bei uns - wir erzählen dir gerne mehr.</p>
+                    <h3 class="n_title_color">Is anything missing?</h3>
+                    <p class="p_color">Get in touch with us - we'd be happy to tell you more.</p>
                   </div>
                 </div>
               </div>
@@ -518,7 +516,7 @@
           </div>
 
           <div style="width: 100%;text-align: center;">
-            <a href="contact.php" class="mt_30 seo_btn seo_btn_one btn_hover" style="background-color: #e45039;color: #fff" data-i18n="index.contact2">Set. > Jetzt Kontakt aufnehmen.</a>
+            <a href="contact.php" class="mt_30 seo_btn seo_btn_one btn_hover" style="background-color: #e45039;color: #fff" data-i18n="index.contact2">Set. > Contact us now.</a>
           </div>
         </div>
       </div>
@@ -540,12 +538,11 @@
           <div class="seo_features_content">
             <br><br>
             <!--<h2>DEINE BEGEISTERUNG: UNSERE GALAXIE.<br>TAUCHE EIN IN UNSER PRODUKTPORTFOLIO.</h2>-->
-            <h2 class="f_p f_size_30 l_height50 f_600 t_color3 uppercase">Hebe ab mit unserem Produktportfolio.</h2>
-            <p>Klar könnten wir hier jedes Produkt aufzählen, das wir anbieten – aber das wäre fast so unendlich, wie Sterne zu zählen.</p>
+            <h2 class="f_p f_size_30 l_height50 f_600 t_color3 uppercase">TAKE OFF WITH OUR PRODUCT PORTFOLIO.</h2>
+            <p>Of course we could list every product we offer here - but that would be almost as infinite as counting stars.</p>
             <br>
-            <h3>Wir machen es dir daher einfach – und können alles.</h3><br>
-            <p>Tatsächlich ist mit unserer DokuMe Plattform der Grundstein gelegt für jegliche digitale Applikation – von der individuellen IT-Gesamtlösung für dein Unternehmen ob groß oder klein, über einzelne Apps, die rasch verfügbar sein
-              müssen, bis hin zu erprobten Lösungen für Unternehmen, Sportverbände und Athleten.
+            <h3>We make it easy for you - and we can do everything.</h3><br>
+            <p>In fact, our DokuMe platform lays the foundation for any digital application - from the individual complete IT solution for your company, whether large or small, to individual apps that must be available quickly, to tried-and-tested solutions for companies, sports associations and athletes.
             </p>
             <!--  <div class="media seo_features_item">
             <div class="icon"><i class="fas fa-rocket"></i></div>
@@ -578,8 +575,8 @@
   <section class="support_integration_area angled-edge angled-edge-grey">
     <div class="container">
       <div class="sec_title text-center mb_70 wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-        <h2 class="f_p f_size_30 l_height50 f_600 t_color3 uppercase">PRODUKTPORTFOLIO</h2>
-        <p class="f_400 f_size_16 mb-0">Ein Auszug unserer vergangenen Missionen:</p>
+        <h2 class="f_p f_size_30 l_height50 f_600 t_color3 uppercase">PRODUCT PORTFOLIO</h2>
+        <p class="f_400 f_size_16 mb-0">An excerpt of our past missions:</p>
       </div>
       <div class="row flex-row-reverse">
         <div class="col-lg-9 col-md-10 col-sm-12">
@@ -611,13 +608,13 @@
             <div class="col-lg-4 col-md-4 col-sm-6">
               <a href="#" class="s_integration_item">
                 <img src="websiteNEWASSETS/img/index/icon_mainmenu_5.png" alt="">
-                <h5>Projektmanagement</h5>
+                <h5>Project management</h5>
               </a>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6">
               <a href="#" class="s_integration_item">
                 <img src="websiteNEWASSETS/img/index/icon_mainmenu_6.png" alt="">
-                <h5>Buchungssysteme</h5>
+                <h5>booking systems</h5>
               </a>
             </div>
 
@@ -630,7 +627,7 @@
             </div>-->
             <br>
             <div style="width: 100%;text-align: center;z-index: 1;">
-              <a href="contact.php" class="mt_30 seo_btn seo_btn_one btn_hover" style="background-color: #e45039;color: #fff;" data-i18n="index.contact3">Go. > Jetzt Kontakt aufnehmen.</a>
+              <a href="contact.php" class="mt_30 seo_btn seo_btn_one btn_hover" style="background-color: #e45039;color: #fff;" data-i18n="index.contact3">Go. > Contact us now.</a>
             </div>
             <br>
           </div>
@@ -647,9 +644,8 @@
   <section class="hosting_service_area sec_pad angled-edge angled-edge-lightblue">
     <div class="container">
       <div class="hosting_title text-center">
-        <h2 class="wow fadeInUp f_p f_size_30 l_height50 f_600 t_color3 uppercase" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;margin-top: 100px">So funktioniert‘s: Die DokuMe Plattform</h2>
-        <p class="wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">Das Herzstück unseres Erfolges ist unsere DokuMe Plattform, deine „Kommandozentrale“. Hier kannst du dein IT-Produkt
-          verwalten, mit deinem Team kommunizieren und nach Wunsch neue Applikationen hinzufügen. Wie immer: Einfach, schnell und effizient.</p>
+        <h2 class="wow fadeInUp f_p f_size_30 l_height50 f_600 t_color3 uppercase" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;margin-top: 100px">HOW IT WORKS: THE DOKUME PLATFORM</h2>
+        <p class="wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">The heart of our success is our DokuMe platform, your "command center". Here you can manage your IT product, communicate with your team and add new applications if you wish. As always: simple, fast and efficient.</p>
       </div>
       <div class="row">
         <div class="col-lg-4 col-sm-6">
@@ -658,9 +654,9 @@
               <i class="fas fa-sign-in-alt"></i>
             </div>
             <a href="#">
-              <h4 class="h_head">Anmelden & Auswählen</h4>
+              <h4 class="h_head">Sign up & choose</h4>
             </a>
-            <p>Finde die Apps, die zu dir passen. Personalisiere sie mit wenigen Klicks, damit du rasch dein Ziel erreichst.</p>
+            <p>Find the apps that suit you. Personalize them with just a few clicks so you can quickly reach your goal.</p>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6">
@@ -669,9 +665,9 @@
               <i class="fas fa-user-plus"></i>
             </div>
             <a href="#">
-              <h4 class="h_head">Einladen & Durchstarten</h4>
+              <h4 class="h_head">Invite & get started</h4>
             </a>
-            <p>Füge deine Teammitglieder hinzu. Gemeinsam startet ihr durch.</p>
+            <p>Add your team members. You start together.</p>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6">
@@ -680,9 +676,9 @@
               <i class="fas fa-rocket"></i>
             </div>
             <a href="#">
-              <h4 class="h_head">Analysieren & Weiterwachsen</h4>
+              <h4 class="h_head">Analyze & grow</h4>
             </a>
-            <p>Nutze unsere Reporting- und Analysemöglichkeiten. So wird dein IT-Portfolio (alternativ: IT-Produkt) noch besser.</p>
+            <p>Use our reporting and analysis options. This will make your IT portfolio (alternatively: IT product) even better.</p>
           </div>
         </div>
       </div>

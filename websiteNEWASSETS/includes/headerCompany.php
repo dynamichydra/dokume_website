@@ -6,7 +6,7 @@
         <div class="row">
           <div class="col-md-6 d-flex">
             <ul class="header_contact_info list-styled">
-              <li><i class="far fa-envelope"></i><a href="mailto:info@dokume.net">info@dokume.net</a></li>
+              <li><i class="far fa-envelope"></i><a href="mailto:info@dokume.net">info@dokume.in</a></li>
             </ul>
             <ul class="header_social_icon list-unstyled">
               <li><a href="https://www.facebook.com/dokume.net" target="_blank"><i class="ti-facebook"></i></a></li>
@@ -14,13 +14,13 @@
               <li><a href="https://www.instagram.com/dokume/" target="_blank"><i class="ti-instagram"></i></a></li>
             </ul>
           </div>
-          <div class="col-md-6">
+          <!-- <div class="col-md-6">
             <ul class="header_top_menu list-unstyled">
-              <li><a href="changeClientType.php?client=company"><b data-i18n="menu.company">Unternehmen</b></a></li>
-              <li><a href="changeClientType.php?client=federation" data-i18n="menu.federation">Sportverbände</a></li>
+              <li><a href="changeClientType.php?client=company"><b data-i18n="menu.company">Company</b></a></li>
+              <li><a href="changeClientType.php?client=federation" data-i18n="menu.federation">sports associations</a></li>
               <li><a href="contact.php" data-i18n="menu.demo">Demo</a></li>
             </ul>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
@@ -58,7 +58,7 @@
           </li>-->
           <li class=nav-item>
             <a class="nav-link" href="products.php" role="button" aria-haspopup="true" aria-expanded="false" data-i18n="menu.products">
-              Produkte
+              Products
             </a>
           </li>
 
@@ -85,11 +85,11 @@
             </ul>
           </li>-->
 
-          <li class="dropdown submenu nav-item"><a title="Pages" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#" data-i18n="menu.aboutus">Über uns</a>
+          <li class="dropdown submenu nav-item"><a title="Pages" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#" data-i18n="menu.aboutus">about us</a>
             <ul role="menu" class=" dropdown-menu">
-              <li class="nav-item"><a title="About" class="nav-link" href="aboutus.php">Wer wir sind</a></li>
-              <li class="nav-item"><a title="About" class="nav-link" href="team.php">Unser Team</a></li>
-              <li class="nav-item"><a title="About" class="nav-link" href="whyus.php">Was uns auszeichnet</a></li>
+              <li class="nav-item"><a title="About" class="nav-link" href="aboutus.php">who we are</a></li>
+              <li class="nav-item"><a title="About" class="nav-link" href="team.php">Our team</a></li>
+              <li class="nav-item"><a title="About" class="nav-link" href="whyus.php">What sets us apart</a></li>
               <!--<li class="nav-item"><a title="About" class="nav-link" href="yourprofit.php">DokuMe Plattform</a></li>-->
               <li class="nav-item"><a title="Blog" class="nav-link" href="blog-list.php">Blog</a></li>
               <li class="nav-item"><a title="Blog" class="nav-link" href="blog.php">Social</a></li>
@@ -110,7 +110,7 @@
                   <li class="nav-item"><a title="Job Listing" class="nav-link" href="login.php">Login</a></li>
                 </ul>
               </li>-->
-              <li class="nav-item"><a title="Job Listing" class="nav-link" href="job-listing.php">Karriere</a></li>
+              <li class="nav-item"><a title="Job Listing" class="nav-link" href="job-listing.php">Career</a></li>
             </ul>
           </li>
 
@@ -121,12 +121,12 @@
           </li>-->
           <li class=nav-item>
             <a class="nav-link" href="contact.php" role="button" aria-haspopup="true" aria-expanded="false" data-i18n="menu.contact">
-              Kontakt
+              Contact
             </a>
           </li>
         </ul>
         <!--<a class="btn_get btn_hover hidden-sm hidden-xs" href="https://platform.dokume.net">Anmelden</a>-->
-        <a class="btn_get btn_hover hidden-sm hidden-xs" href="https://my.dokume.net" data-i18n="login.login">Anmelden</a>
+        <a class="btn_get btn_hover hidden-sm hidden-xs" href="https://my.dokume.net" data-i18n="login.login">Register</a>
       </div>
     </div>
   </nav>

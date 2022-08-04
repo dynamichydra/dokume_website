@@ -124,8 +124,8 @@
             <div class="container">
                 <div class="breadcrumb_content responsive-breadcrumb-container text-center">
                     <h1 class="f_p f_700 f_size_50 w_color l_height50 mb_20 responsive-headline">Doku<font color="E45038">Me</font> Blog</h1>
-                    <p class="f_400 w_color f_size_16 l_height26">Erfahre mehr über die Auswirkungen der Digitalisierung.
-                        In unserem Blog erfährst du <br> wie du von der vierten industriellen Revolution profiteren kannst 🚀
+                    <p class="f_400 w_color f_size_16 l_height26">Learn more about the effects of digitization.
+                        In our blog you will learn <br> how you can benefit from the fourth industrial revolution 🚀
                     </p>
                 </div>
             </div>
@@ -150,7 +150,7 @@
                         <div class="blog-sidebar">
                             <div class="widget sidebar_widget widget_recent_post mt_60">
                                 <div class="widget_title">
-                                    <h3 class="f_p f_size_20 t_color3">Aktuelle Beiträge</h3>
+                                    <h3 class="f_p f_size_20 t_color3">Current Posts</h3>
                                     <div class="border_bottom"></div>
                                 </div>
                                 

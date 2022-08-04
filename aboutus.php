@@ -127,8 +127,8 @@
     </div>
     <div class="container">
       <div class="pos_banner_text text-center">
-        <h6>Unsere Geschichte</h6>
-        <h2>Wir machen Ihre Mitarbeiter zu echten Helden, indem wir ihnen mehr Zeit für die wichtigen Dinge schenken.</h2>
+        <h6>OUR HISTORY</h6>
+        <h2>We turn your employees into real heroes by giving them more time for the important things.</h2>
           <!--Mit unserer Software digitalisieren und vereinfachen wir zeitraubende Prozesse und schaffen so Zeit für essentielle Themen.</span></h2>
         <!-<div class="action_btn d-flex align-items-center justify-content-center wow fadeInLeft" data-wow-delay="0.6s">
           <a href="#" class="software_banner_btn">Request a Demo</a>
@@ -144,9 +144,8 @@
   <section class="easy_setup_area sec_pad">
     <div class="container">
       <div class="hosting_title analytices_title text-center">
-        <h2 class="wow fadeInUp" data-wow-delay="0.2s"><span>Die digitale Dimension –</span> ist unser Universum.</h2>
-        <p class="wow fadeInUp" data-wow-delay="0.4s">Hier bewegen wir uns mit einer regelrecht schwerelosen Sicherheit – und trotzdem fokussiert. Wir stellen Dich als Nutzer*in mit Deinen Wünschen & Bedürfnissen in den Mittelpunkt unserer täglichen
-          Arbeit. Mit flexiblen IT-Lösungen ganz nach Deinem Bedarf.
+        <h2 class="wow fadeInUp" data-wow-delay="0.2s"><span>The digital dimension –</span> is our universe.</h2>
+        <p class="wow fadeInUp" data-wow-delay="0.4s">Here we move with a downright weightless certainty - and still focused. We put you as a user with your wishes and needs at the center of our daily work. With flexible IT solutions tailored to your needs.
         </p>
       </div>
       <div class="setup_inner" style="max-width: 100%;">
@@ -159,10 +158,8 @@
           </div>
           <div class="col-md-5">
             <div class="setup_content wow fadeInRight" data-wow-delay="0.4s">
-              <h5>UNSER ANTRIEB</h5>
-              <p>Zugegeben – tägliche Routinen waren noch nie so unser Ding. Und doch war es genau das, was DokuMe zur Gründung verhalf. Ursprünglich im Sportbereich beheimatet stand Nicki, einer unserer beiden Gründer, vor der Herausforderung,
-                seine
-                täglichen Trainingszeiten fristgerecht und sauber, pünktlich und fehlerlos, täglich und ohne Pausen korrekt abzuliefern.</p>
+              <h5>OUR DRIVE</h5>
+              <p>Admittedly - daily routines have never been our thing. And yet it was exactly what helped DokuMe to start. Originally at home in the sports sector, Nicki, one of our two founders, was faced with the challenge of delivering his daily training times correctly on time and cleanly, punctually and without errors, daily and without breaks.</p>
             </div>
           </div>
           <div class="line bottom_half wow height" data-wow-delay="0.5s"></div>
@@ -176,8 +173,8 @@
           </div>
           <div class="col-md-5">
             <div class="setup_content wow fadeInRight" data-wow-delay="0.4s">
-              <h5>NICHTS IST UNMÖGLICH</h5>
-              <p>Praktisch ein Ding der Unmöglichkeit für jeden vielseitig interessierten berufstätigen Studenten, der doch noch die Welt zu erobern hat – aber kein Problem für Informatiker*innen.
+              <h5>NOTHING IS IMPOSSIBLE</h5>
+              <p>Practically an impossibility for every professional student with a wide range of interests who still has the world to conquer - but no problem for computer scientists.
               </p>
             </div>
           </div>
@@ -192,9 +189,8 @@
           </div>
           <div class="col-md-5">
             <div class="setup_content wow fadeInRight" data-wow-delay="0.4s">
-              <h5>DER STARTSCHUSS</h5>
-              <p>Und so entwickelte er zusammen mit Christoph, unserem zweiten Gründer, binnen kürzester Zeit eine Plattform, mit der er nicht nur sich selbst und seinen täglichen Trainingsfortschritt, sondern bald auch jenen der gesamten Judo
-                Nationalmannschaft ordnungsgemäß, in Echtzeit und automatisch dem Trainerteam abliefern konnte.<br><br><b>Der Startschuss für DokuMe war gefallen.</p>
+              <h5>THE START</h5>
+              <p>And so, together with Christoph, our second founder, he developed a platform within a very short time with which he could not only deliver himself and his daily training progress, but soon also that of the entire national judo team properly, in real time and automatically to the coaching team.<br><br><b>The starting signal for DokuMe had been given.</p>
             </div>
           </div>
           <div class="line wow height" data-wow-delay="1.5s"></div>
@@ -208,9 +204,8 @@
           </div>
           <div class="col-md-5">
             <div class="setup_content wow fadeInRight" data-wow-delay="0.4s">
-              <h5>UNSERE CREW</h5>
-              <p>Heute steckt hinter DokuMe ein dynamisches Team aus Entwickler*innen und Designer*innen, das länderübergreifend individuelle IT-Lösungen für Unternehmen der verschiedensten Branchen, von Sportverbänden bis hin zum
-                global tätigen Textileinzelhandel, anbietet.
+              <h5>OUR CREW</h5>
+              <p>Today, DokuMe is backed by a dynamic team of developers and designers who offer international, individual IT solutions for companies in a wide variety of industries, from sports associations to global textile retailers.
               </p>
             </div>
           </div>
@@ -366,7 +361,7 @@
       <div class="erp_action_content text-center">
         <img src="websiteNEWASSETS/img/aboutus/aboutus_1.png" width="50%" height="50%" alt="">
         <h3>
-          <class="uppercase">"HINTER JEDEM PROBLEM, DAS DICH GEFANGEN NIMMT, VERBIRGT SICH DIE CHANCE FÜR WACHSTUM“
+          <class="uppercase">"BEHIND EVERY PROBLEM THAT CAPTURES YOU IS AN OPPORTUNITY FOR GROWTH"
         </h3>
         <p>(J. Mariss)</p>
         <!--<a href="#" class="er_btn er_btn_two">Sign up for free</a>-->
@@ -389,16 +384,16 @@
     <div class="cloud_img" style="background: url(websiteNEWASSETS/img/products/cloud1.png) no-repeat;"></div>
     <div class="container">
       <div class="seo_sec_title text-center mb_70 wow fadeInUp" data-wow-delay="0.3s">
-        <h2>LIFT OFF: Heben wir gemeinsam ab.</h2>
-        <p>Erfahre mehr über unser Team und lerne uns kennen.</p>
+        <h2>LIFT OFF: Let's take off together.</h2>
+        <p>Find out more about our team and get to know us.</p>
       </div>
 
       <div class="seo_sec_title text-center mb_70 wow fadeInUp" data-wow-delay="0.3s">
-        <a href="aboutus.php?t=2" class="about_btn white_btn wow fadeInLeft" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInLeft;">WER WIR SIND</a>
+        <a href="aboutus.php?t=2" class="about_btn white_btn wow fadeInLeft" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInLeft;">WHO WE ARE</a>
 
-        <a href="team.php?t=2" class="about_btn wow fadeInLeft2" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInRight;">UNSER TEAM</a>
+        <a href="team.php?t=2" class="about_btn wow fadeInLeft2" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInRight;">OUR TEAM</a>
 
-        <a href="whyus.php?t=2" class="about_btn wow fadeInRight" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInRight;">WAS UNS AUSZEICHNET</a>
+        <a href="whyus.php?t=2" class="about_btn wow fadeInRight" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInRight;">WHAT MAKES US DISTINGUISH</a>
       </div>
     </div>
   </section>

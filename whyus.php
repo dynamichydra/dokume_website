@@ -107,10 +107,9 @@
     </div>
     <div class="container">
       <div class="pos_banner_text text-center">
-        <h6>ENGINEERING, POWER UND VERLÄSSLICHKEIT</h6>
-        <h1>Nein, wir betreiben keine „Rocket-Science“</h1>
-        <p>Und doch nehmen wir Deine Sorgen und Wünsche ernst, wie unsere persönliche Weltraummission. Wir begleiten Dich durchs All
-          der Daten und finden einen sicheren Weg und eine professionelle Lösung.</p>
+        <h6>ENGINEERING, POWER AND RELIABILITY</h6>
+        <h1>No, we don't do "rocket science"</h1>
+        <p>And yet we take your concerns and wishes seriously, like our personal space mission. We accompany you through the universe of data and find a safe way and a professional solution.</p>
         <!--Mit unserer Software digitalisieren und vereinfachen wir zeitraubende Prozesse und schaffen so Zeit für essentielle Themen.</span></h2>
           <div class="action_btn d-flex align-items-center justify-content-center wow fadeInLeft" data-wow-delay="0.6s">
             <a href="#" class="software_banner_btn">Request a Demo</a>
@@ -210,31 +209,29 @@
   <section class="saas_features_area_two">
     <div class="container">
       <div class="sec_title text-center mb_70 wow fadeInUp" data-wow-delay="0.3s">
-        <h2 class="f_p f_size_30 l_height50 f_600 t_color"> >> ZEIT FÜR DAS WAS WIRKLICH ZÄHLT <<</h2> <p class="f_400 f_size_16">Effizientere Abläufe, Überblick und mehr Zeit für Kernaufgaben: Wir versuchen eure Prozesse zu optimieren. </p>
+        <h2 class="f_p f_size_30 l_height50 f_600 t_color"> >> TIME FOR WHAT REALLY COUNTS <<</h2> <p class="f_400 f_size_16">More efficient processes, overview and more time for core tasks: We try to optimize your processes. </p>
       </div>
       <br><br><br>
       <div class="row mb_30">
         <div class="col-lg-4 col-sm-6">
           <div class="saas_features_item text-center wow fadeInUp" data-wow-delay="0.3s">
             <img src="websiteNEWASSETS/img/whyus/whyus_2.png" width="40%" height="40%" alt="">
-            <h4 class="f_size_20 f_p t_color f_500">Geschwindigkeit?<br>Check. >></h4>
-            <p class="f_400 f_size_15 mb-0">Unsere existierende DokuMe Plattform bietet das Grundgerüst, auf dem Deine digitale Idee Halt findet. Ob Neuentwicklung Deiner IT-Gesamtlösung oder sofortige Integration eines unserer bereits bestehenden
-              Module – unsere sichere Basis
-              bietet das Fundament für die schnelle Umsetzung.</p>
+            <h4 class="f_size_20 f_p t_color f_500">Speed?<br>Check. >></h4>
+            <p class="f_400 f_size_15 mb-0">Our existing DokuMe platform provides the framework on which your digital idea can find support. Whether it's a new development of your overall IT solution or the immediate integration of one of our existing modules - our secure basis provides the foundation for rapid implementation.</p>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6">
           <div class="saas_features_item text-center wow fadeInUp" data-wow-delay="0.5s">
             <img src="websiteNEWASSETS/img/whyus/whyus_3.png" width="40%" height="40%" alt="">
-            <h4 class="f_size_20 f_p t_color f_500">Schnittstelle?<br>Check. >></h4>
-            <p class="f_400 f_size_15 mb-0">Kein Grund zur Aufregung mit uns. Unser IT-Engineering sorgt dafür, dass jedes System mit DokuMe mit Leichtigkeit verbunden werden kann.</p>
+            <h4 class="f_size_20 f_p t_color f_500">Interface?<br>Check. >></h4>
+            <p class="f_400 f_size_15 mb-0">No need to fuss with us. Our IT engineering ensures that any system can be connected to DokuMe with ease.</p>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6">
           <div class="saas_features_item text-center wow fadeInUp" data-wow-delay="0.7s">
             <img src="websiteNEWASSETS/img/whyus/whyus_4.png" width="40%" height="40%" alt="">
-            <h4 class="f_size_20 f_p t_color f_500">Zugriff?<br>Check. >></h4>
-            <p class="f_400 f_size_15 mb-0">Verarbeite Deine Daten von überall – ob per App, Unternehmenswebsite oder am internen System.</p>
+            <h4 class="f_size_20 f_p t_color f_500">Access?<br>Check. >></h4>
+            <p class="f_400 f_size_15 mb-0">Process your data from anywhere - whether via app, company website or on the internal system.</p>
           </div>
         </div>
       </div>
@@ -252,22 +249,22 @@
         <div class="col-lg-4 col-sm-6">
           <div class="saas_features_item text-center wow fadeInUp" data-wow-delay="0.3s">
             <img src="websiteNEWASSETS/img/whyus/whyus_5.png" width="40%" height="40%" alt="">
-            <h4 class="f_size_20 f_p t_color f_500">Kapazität?<br>Check. >></h4>
-            <p class="f_400 f_size_15 mb-0">Neben unserer zwölfköpfigen Kern-Crew arbeiten viele schlaue Köpfe an DokuMe, um Dir stets das beste Produkt zu bieten. Unser flexibel abrufbares Team besteht aus Techniker*innen aus allen Bereichen.</p>
+            <h4 class="f_size_20 f_p t_color f_500">Capacity?<br>Check. >></h4>
+            <p class="f_400 f_size_15 mb-0">In addition to our core crew of twelve, many clever minds work on DokuMe to always offer you the best product. Our flexibly available team consists of technicians from all areas.</p>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6">
           <div class="saas_features_item text-center wow fadeInUp" data-wow-delay="0.5s">
               <img src="websiteNEWASSETS/img/whyus/whyus_6.png" width="50%" height="50%" alt="">
-            <h4 class="f_size_20 f_p t_color f_500">Datensicherheit?<br>Check. >></h4>
-            <p class="f_400 f_size_15 mb-0">Mit dem DokuMe Rechtesystem kannst Du immer kontrollieren, wo welche Daten in welcher Form verarbeitet werden. Transparent und in Echtzeit.</p>
+            <h4 class="f_size_20 f_p t_color f_500">data security?<br>Check. >></h4>
+            <p class="f_400 f_size_15 mb-0">With the DokuMe rights system, you can always control where which data is processed and in what form. Transparent and in real time.</p>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6">
           <div class="saas_features_item text-center wow fadeInUp" data-wow-delay="0.7s">
             <img src="websiteNEWASSETS/img/whyus/whyus_7.png" width="50%" height="50%" alt="">
-            <h4 class="f_size_20 f_p t_color f_500">Überzeugte Partner<br>Viele. >></h4>
-            <p class="f_400 f_size_15 mb-0">Wir freuen uns über langjährige Partnerschaften und danken für Euer Vertrauen.</p>
+            <h4 class="f_size_20 f_p t_color f_500">Convinced partners<br>Viele. >></h4>
+            <p class="f_400 f_size_15 mb-0">We look forward to long-term partnerships and thank you for your trust.</p>
           </div>
         </div>
       </div>
@@ -338,8 +335,9 @@
   <section class="sass_partner_logo_area sec_pad">
     <div class="container">
       <div class="sec_title text-center wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-        <h2 class="f_p f_size_30 l_height50 f_600 t_color">EIN AUSZUG UNSERER KUNDEN</h2>
-        <p class="f_400 f_size_16">Damit DokuMe Ihnen den größtmöglichen Mehrwert bietet, tauschen wir uns stets mit unseren Kunden aus. Das sagen sie selbst über die Arbeit mit uns und unserer Software.</p>
+        <h2 class="f_p f_size_30 l_height50 f_600 t_color">AN ABSTRACT OF OUR CUSTOMERS</h2>
+        <p class="f_400 f_size_16">
+To ensure that DokuMe offers you the greatest possible added value, we constantly exchange information with our customers. That's what they say about working with us and our software.</p>
       </div>
       <div class="partner_logo_area_four">
         <div class="row partner_info">

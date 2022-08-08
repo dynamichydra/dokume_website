@@ -618,6 +618,25 @@ And if something is missing, we can easily add the function.</p>
               </a>
             </div>
 
+            <div class="col-lg-4 col-md-4 col-sm-6">
+              <a href="#" class="s_integration_item">
+                <img src="websiteNEWASSETS/img/index/icon_mainmenu_6.png" alt="">
+                <h5>ERP</h5>
+              </a>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6">
+              <a href="#" class="s_integration_item">
+                <img src="websiteNEWASSETS/img/index/icon_mainmenu_6.png" alt="">
+                <h5>E-commerce</h5>
+              </a>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6">
+              <a href="#" class="s_integration_item">
+                <img src="websiteNEWASSETS/img/index/icon_mainmenu_6.png" alt="">
+                <h5>Etc..</h5>
+              </a>
+            </div>
+
             <!--  <button class="btn btn_three btn_hover f_size_15 f_500 wow2 fadeInLeft2" data-wow-delay2="0.8s" type="submit">Go. > Jetzt Kontakt aufnehmen.</button>-->
             <!--<div class="col-lg-12 col-md-4 col-sm-6">
               <a href="https://dokume.net/website/SaasLand/NEW/products.php" class="s_integration_item" style="background-color:#0E467F;">
@@ -694,7 +713,7 @@ And if something is missing, we can easily add the function.</p>
     $('.s_integration_item').on('click', function(e) {
       e.preventDefault();
 
-      alert('Wir arbeiten derzeit hart daran neuen Inhalt für die Seiten zu produzieren. Komm bald wieder, um mehr zu Erfahren.');
+      alert('We are currently working hard to produce new content for the site. Come back soon to learn more.');
       return false;
     });
 

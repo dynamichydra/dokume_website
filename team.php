@@ -260,6 +260,7 @@
                 <h3 class="f_p f_size_16 f_600 t_color3">Nicki</h3>
               </a>
               <h5>Entrepreneur &amp; Founder</h5>
+              <h5>(Dokume Germany)</h5>
             </div>
             <div class="hover_content">
               <div class="n_hover_content">
@@ -287,6 +288,7 @@
                 <h3 class="f_p f_size_16 f_600 t_color3">Christoph</h3>
               </a>
               <h5>Entrepreneur &amp; Founder</h5>
+              <h5>(Dokume Germany)</h5>
             </div>
             <div class="hover_content">
               <div class="n_hover_content">
@@ -314,6 +316,7 @@
                 <h3 class="f_p f_size_16 f_600 t_color3">Jonathan</h3>
               </a>
               <h5>Business Development</h5>
+              <h5>(Dokume Germany)</h5>
             </div>
             <div class="hover_content">
               <div class="n_hover_content">
@@ -327,6 +330,87 @@
                   <h3 class="f_p f_size_16 f_600 t_color3">Jonathan</h3>
                 </a>
                 <h5>Business Development</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="col-lg-3 col-sm-6">
+          <div class="ex_team_item">
+            <img src="websiteNEWASSETS/img/dokume_team/Team_female2_empty-pic.png" alt="Nicki">
+            <div class="team_content">
+              <a href="#">
+                <h3 class="f_p f_size_16 f_600 t_color3">Barnali Natta</h3>
+              </a>
+              <h5>Entrepreneur</h5>
+            </div>
+            <div class="hover_content">
+              <div class="n_hover_content">
+                <ul class="list-unstyled">
+                  <li><a href="mailto:barnali@dokume.net"><i class="far fa-envelope"></i></a></li>
+                  <li><a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a></li>
+                  <li><a href="https://twitter.com/"><i class="fab fa-twitter"></i></a></li>
+                  <li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a></li>
+                  <li><a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a></li>
+                </ul>
+                <div class="br"></div>
+                <a href="#">
+                  <h3 class="f_p f_size_16 f_600 t_color3">Barnali Natta</h3>
+                </a>
+                <h5>Entrepreneur</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="ex_team_item">
+            <img src="websiteNEWASSETS/img/dokume_team/Team_female2_empty-pic.png" alt="Christoph">
+            <div class="team_content">
+              <a href="#">
+                <h3 class="f_p f_size_16 f_600 t_color3">Anindita Debnath</h3>
+              </a>
+              <h5>Entrepreneur</h5>
+            </div>
+            <div class="hover_content">
+              <div class="n_hover_content">
+                <ul class="list-unstyled">
+                  <li><a href="mailto:anindita@dokume.net"><i class="far fa-envelope"></i></a></li>
+                  <li><a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a></li>
+                  <li><a href="https://www.xing.com/"><i class="fab fa-xing"></i></a></li>
+                  <li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a></li>
+                  <li><a href="https://linkedin.com/"><i class="fab fa-linkedin-in"></i></a></li>
+                </ul>
+                <div class="br"></div>
+                <a href="#">
+                  <h3 class="f_p f_size_16 f_600 t_color3">Anindita Debnath</h3>
+                </a>
+                <h5>Entrepreneur</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="ex_team_item">
+            <img src="websiteNEWASSETS/img/dokume_team/Team_male3_empty-pic.png" alt="Jonathan">
+            <div class="team_content">
+              <a href="#">
+                <h3 class="f_p f_size_16 f_600 t_color3">Pradeep Gowda</h3>
+              </a>
+              <h5>Team Lead</h5>
+            </div>
+            <div class="hover_content">
+              <div class="n_hover_content">
+                <ul class="list-unstyled">
+                  <li><a href="mailto:pradeep@dokume.net"><i class="far fa-envelope"></i></a></li>
+                  <li><a href="https://twitter.com/"><i class="fab fa-twitter"></i></a></li>                  
+                  <li><a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a></li>
+                </ul>
+                <div class="br"></div>
+                <a href="#">
+                  <h3 class="f_p f_size_16 f_600 t_color3">Pradeep Gowda</h3>
+                </a>
+                <h5>Team Lead</h5>
               </div>
             </div>
           </div>
@@ -767,6 +851,16 @@
 
           <div class="logo_item">
             <a target="_blank" href="https://www.trainerakademie-koeln.de/"><img src="websiteNEWASSETS/dokumeCustom/img/partner/5.png" style="width: 250px; margin-top: 25px" alt=""></a>
+          </div>
+
+          <div class="logo_item">
+            <a target="_blank" href="https://regaal.in/"><img src="websiteNEWASSETS/dokumeCustom/img/partner/regaal_logo_new.png" style="width: 200px;" alt=""></a>
+          </div>
+          <div class="logo_item">
+            <a target="_blank" href="https://medi-link.co.in/"><img src="websiteNEWASSETS/dokumeCustom/img/partner/02.png" style="width: 200px;" alt=""></a>
+          </div>
+          <div class="logo_item">
+            <a target="_blank" href="https://amarbahok.com/"><img src="websiteNEWASSETS/dokumeCustom/img/partner/03.png" style="width: 100px;" alt=""></a>
           </div>
           <!--<div class="logo_item">
             <a target="_blank" href="https://physiosportkoeln.de/de/"><img src="websiteNEWASSETS/dokumeCustom/img/partner/6.png" style="width: 220px; margin-top: 10px;" alt=""></a>

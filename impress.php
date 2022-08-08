@@ -29,14 +29,14 @@
         <div class="details_content">
           <div class="sec_title mb_70">
             <br><br>
-            <h2>Impressum</h2>
+            <h2>imprint</h2>
             <h3 class="f_p f_size_22 f_500 t_color3 mb_20" data-i18n="">According to § 5 TMG</h3>
           </div>
 
           <p class="f_400 f_size_15">
-            DokuMe UG (limited liability)
-            <br /> Fritz-Figge-Str. 13
-            <br /> D-50823 K&ouml;ln
+            DokuMe India
+            <br /> Subhas Avenue by lane, Ranaghat,
+            <br /> Nadia, WEST BENGAL, 741201
             <br />
             <br />
             <strong>Telephone:</strong> <a href="tel:00919230062065" style="color: #444;"> +91 92300 62065</a>
@@ -58,8 +58,8 @@
             <strong>Commercial register: </strong> HRB 90527 / District Court of Cologne Tax<br />
             <br />
             <strong>number:</strong> 217/5723/2021<br />
-            <br />
-            <strong>VAT ID:</strong> DE314281314<br />
+<!--             <br />
+            <strong>VAT ID:</strong> DE314281314<br /> -->
             <br />
             <strong>Disclaimer:</strong>
             <br /> Despite careful content control, we assume no liability for the content of external links. The operators of the linked pages are solely responsible for their content.

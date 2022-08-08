@@ -51,9 +51,9 @@ window.cookieconsent.initialise({
   "theme": "classic",
   "position": "bottom-right",
   "content": {
-    "message": "Diese Website verwendet Cookies, um dir die bestmögliche Nutzung zu gewährleisten. Durch die weitere Nutzung dieser Webseite erklärst du dich mit unserer Cookie-Richtlinie einverstanden.",
-    "dismiss": "Verstanden!",
-    "link": "Mehr erfahren"
+    "message": "This website uses cookies to ensure you get the best possible experience. By continuing to use this website you agree to our cookie policy.",
+    "dismiss": "Roger that!",
+    "link": "Learn more"
   }
 });
 </script>

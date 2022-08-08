@@ -74,12 +74,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <p class="mb-0 f_400">Copyright © <? echo date("Y"); ?> <a href="https://dokume.net">DokuMe</a></p>
+                    <p class="mb-0 f_400">Copyright © <? echo date("Y"); ?> <a href="https://dokume.in">DokuMe</a></p>
                 </div>
                 <div class="col-md-6">
                     <ul class="f_menu text-right list-unstyled">
-                        <li><a href="privacy.php<?php isset($_GET['t']) && $_GET['t'] == 2 ? $temp = '?t=2' : $temp = ''; echo $temp; ?>" data-i18n="menu.privacy">Privacy Policy</a></li>
-                        <li><a href="agb.php<?php isset($_GET['t']) && $_GET['t'] == 2 ? $temp = '?t=2' : $temp = ''; echo $temp; ?>" data-i18n="menu.terms">Conditions</a></li>
+                        <!-- <li><a href="privacy.php<?php isset($_GET['t']) && $_GET['t'] == 2 ? $temp = '?t=2' : $temp = ''; echo $temp; ?>" data-i18n="menu.privacy">Privacy Policy</a></li> -->
+                        <!-- <li><a href="conditions.php<?php isset($_GET['t']) && $_GET['t'] == 2 ? $temp = '?t=2' : $temp = ''; echo $temp; ?>" data-i18n="menu.terms">Conditions</a></li> -->
                         <!--<li><a href="cookiepolicy.php<?php isset($_GET['t']) && $_GET['t'] == 2 ? $temp = '?t=2' : $temp = ''; echo $temp; ?>" data-i18n="menu.cookiepolicy">Cookie Richtlinie</a></li>-->
                         <li><a href="impress.php<?php isset($_GET['t']) && $_GET['t'] == 2 ? $temp = '?t=2' : $temp = ''; echo $temp; ?>" data-i18n="menu.impress">imprint</a></li>
                     </ul>

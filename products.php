@@ -238,6 +238,7 @@
                 <li><i class="ti-arrow-circle-right"></i> CRM systems</li>
                 <li><i class="ti-arrow-circle-right"></i> Project Management Tools</li>
                 <li><i class="ti-arrow-circle-right"></i> SEO</li>
+                <li><i class="ti-arrow-circle-right"></i> ERP</li>
               </ul>
             </div>
           </div>

@@ -355,6 +355,16 @@ To ensure that DokuMe offers you the greatest possible added value, we constantl
           <div class="logo_item">
             <a target="_blank" href="https://www.trainerakademie-koeln.de/"><img src="websiteNEWASSETS/dokumeCustom/img/partner/5.png" style="width: 250px; margin-top: 25px" alt=""></a>
           </div>
+
+          <div class="logo_item">
+            <a target="_blank" href="https://regaal.in/"><img src="websiteNEWASSETS/dokumeCustom/img/partner/regaal_logo_new.png" style="width: 200px;" alt=""></a>
+          </div>
+          <div class="logo_item">
+            <a target="_blank" href="https://medi-link.co.in/"><img src="websiteNEWASSETS/dokumeCustom/img/partner/02.png" style="width: 200px;" alt=""></a>
+          </div>
+          <div class="logo_item">
+            <a target="_blank" href="https://amarbahok.com/"><img src="websiteNEWASSETS/dokumeCustom/img/partner/03.png" style="width: 100px;" alt=""></a>
+          </div>
           <!--<div class="logo_item">
             <a target="_blank" href="https://physiosportkoeln.de/de/"><img src="websiteNEWASSETS/dokumeCustom/img/partner/6.png" style="width: 220px; margin-top: 10px;" alt=""></a>
           </div>

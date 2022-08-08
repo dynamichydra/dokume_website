@@ -66,13 +66,13 @@
         <div class="row">
           <div class="col-lg-3 pr-0">
             <div class="contact_info_item">
-              <h6 class="f_p f_size_20 t_color3 f_500 mb_20">postal address</h6>
-              <p class="f_400 f_size_15">Fritz-Figge-Str. 13, D-50823 Köln</p>
+              <h6 class="f_p f_size_20 t_color3 f_500 mb_20">Register address</h6>
+              <p class="f_400 f_size_15">Subhas Avenue by lane, Ranaghat, Nadia, WEST BENGAL, 741201</p>
             </div>
             <div class="contact_info_item">
               <h6 class="f_p f_size_20 t_color3 f_500 mb_20">contact information</h6>
               <p class="f_400 f_size_15"><span class="f_400 t_color3">Phone:</span> <a href="tel:00919230062065">+91 92300 62065</a></p>
-              <p class="f_400 f_size_15"><span class="f_400 t_color3">Email:</span> <a href="mailto:info@dokume.net">info@dokume.in</a></p>
+              <p class="f_400 f_size_15"><span class="f_400 t_color3">Email:</span> <a href="mailto:info@dokume.in">info@dokume.in</a></p>
             </div>
           </div>
           <div class="col-lg-8 offset-lg-1">
@@ -118,7 +118,8 @@
                   </div>
                   <div class="col-lg-12">
                     <div class="form-group text_box">
-                      <p class="f_400 t_color3">* Information on the processing of your data can be found in our <a href="https://dokume.net/privacy.php">data protection declaration</a>.</p>
+                      <p class="f_400 t_color3">* Information on the processing of your data can be found in our <a href="">data protection declaration</a>.</p>
+                      <!-- <p class="f_400 t_color3">* Information on the processing of your data can be found in our <a href="https://dokume.in/privacy.php">data protection declaration</a>.</p> -->
                     </div>
                   </div>
                 </div>

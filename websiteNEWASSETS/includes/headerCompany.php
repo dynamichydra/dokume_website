@@ -6,7 +6,7 @@
         <div class="row">
           <div class="col-md-6 d-flex">
             <ul class="header_contact_info list-styled">
-              <li><i class="far fa-envelope"></i><a href="mailto:info@dokume.net">info@dokume.in</a></li>
+              <li><i class="far fa-envelope"></i><a href="mailto:info@dokume.in">info@dokume.in</a></li>
             </ul>
             <ul class="header_social_icon list-unstyled">
               <li><a href="https://www.facebook.com/dokume.net" target="_blank"><i class="ti-facebook"></i></a></li>

@@ -91,8 +91,8 @@
               <li class="nav-item"><a title="About" class="nav-link" href="team.php">Our team</a></li>
               <li class="nav-item"><a title="About" class="nav-link" href="whyus.php">What sets us apart</a></li>
               <!--<li class="nav-item"><a title="About" class="nav-link" href="yourprofit.php">DokuMe Plattform</a></li>-->
-              <li class="nav-item"><a title="Blog" class="nav-link" href="blog-list.php">Blog</a></li>
-              <li class="nav-item"><a title="Blog" class="nav-link" href="blog.php">Social</a></li>
+              <!-- <li class="nav-item"><a title="Blog" class="nav-link" href="blog-list.php">Blog</a></li> -->
+              <!-- <li class="nav-item"><a title="Blog" class="nav-link" href="blog.php">Social</a></li> -->
 
               <!--  <li class="dropdown submenu nav-item"><a title="Service" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Leistungen <span class="arrow_carrot-right"></span> </a>
                 <ul class=" dropdown-menu">

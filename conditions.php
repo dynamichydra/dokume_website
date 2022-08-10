@@ -34,7 +34,7 @@
           </div>
 
           <p class="f_400 f_size_15">
-            General Terms and Conditions of DokuMe UG (limited liability), Fritz-Figge-Str. 13, D-50823 Cologne (here in after referred to as "DokuMe").
+            General Terms and Conditions of DokuMe IN, Subhas Avenue by lane, Ranaghat,Nadia, WEST BENGAL, 741201 (here in after referred to as "DokuMe").
             <br>
             <br> This website is operated by DokuMe. If you use DokuMe services, the provisions of these General Terms and Conditions ("GTC") of DokuMe apply.
             <br>DokuMe is an online Platform for professional and individual training management

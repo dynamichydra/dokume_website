@@ -39,8 +39,8 @@
           With this data protection declaration, we would like to inform you in accordance with Art. 13 and 14 of the General Data Protection Regulation (GDPR) how our company processes personal data during the use of the online offers (hereinafter also "website") and other services and to inform you about your rights . We process your personal data in compliance with the GDPR and all other applicable data protection regulations. This data protection declaration uses the terms of the GDPR. The terms used, such as "user" are to be understood as gender-neutral. 
 <br><br>
 <b>1. Responsible and data protection</b>
-<br>officer DokuMe UG (limited liability)<br>
-Fritz-Figge-Str. 13, 50823 Köln<br>
+<br>DokuMe IN<br>
+Subhas Avenue by lane, Ranaghat,Nadia, WEST BENGAL, 741201<br>
 E-Mail: <a href="info@dokume.in">info@dokume.in</a>
 <br><br>
 Kontaktdaten der Datenschutzbeauftragten: <a href="mailto:privacy@dokume.in">privacy@dokume.in</a><br><br>

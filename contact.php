@@ -118,8 +118,8 @@
                   </div>
                   <div class="col-lg-12">
                     <div class="form-group text_box">
-                      <p class="f_400 t_color3">* Information on the processing of your data can be found in our <a href="">data protection declaration</a>.</p>
-                      <!-- <p class="f_400 t_color3">* Information on the processing of your data can be found in our <a href="https://dokume.in/privacy.php">data protection declaration</a>.</p> -->
+                      <!-- <p class="f_400 t_color3">* Information on the processing of your data can be found in our <a href="">data protection declaration</a>.</p> -->
+                      <p class="f_400 t_color3">* Information on the processing of your data can be found in our <a href="https://dokume.in/privacy.php">data protection declaration</a>.</p>
                     </div>
                   </div>
                 </div>

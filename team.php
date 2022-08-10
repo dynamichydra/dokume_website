@@ -259,7 +259,7 @@
               <a href="#">
                 <h3 class="f_p f_size_16 f_600 t_color3">Nicki</h3>
               </a>
-              <h5>Entrepreneur &amp; Founder</h5>
+              <h5>Entrepreneur</h5>
               <h5>(Dokume Germany)</h5>
             </div>
             <div class="hover_content">
@@ -275,7 +275,7 @@
                 <a href="#">
                   <h3 class="f_p f_size_16 f_600 t_color3">Nicki</h3>
                 </a>
-                <h5>Entrepreneur &amp; Founder</h5>
+                <h5>Entrepreneur</h5>
               </div>
             </div>
           </div>
@@ -287,7 +287,7 @@
               <a href="#">
                 <h3 class="f_p f_size_16 f_600 t_color3">Christoph</h3>
               </a>
-              <h5>Entrepreneur &amp; Founder</h5>
+              <h5>Entrepreneur</h5>
               <h5>(Dokume Germany)</h5>
             </div>
             <div class="hover_content">
@@ -303,7 +303,7 @@
                 <a href="#">
                   <h3 class="f_p f_size_16 f_600 t_color3">Christoph</h3>
                 </a>
-                <h5>Entrepreneur &amp; Founder</h5>
+                <h5>Entrepreneur</h5>
               </div>
             </div>
           </div>
@@ -554,8 +554,6 @@
             </div>
           </div>
         </div>
-
-
         <div class="col-lg-3 col-sm-6">
           <div class="ex_team_item">
             <img src="websiteNEWASSETS/img/dokume_team/Team_male2_empty-pic.png" alt="Rubel">
@@ -583,6 +581,336 @@
             </div>
           </div>
         </div>
+
+
+        <div class="col-lg-3 col-sm-6">
+          <div class="ex_team_item">
+            <img src="websiteNEWASSETS/img/dokume_team/Team_male2_empty-pic.png" alt="Rubel">
+            <div class="team_content">
+              <a href="#">
+                <h3 class="f_p f_size_16 f_600 t_color3"> Somnath</h3>
+              </a>
+              <h5>QA</h5>
+            </div>
+            <div class="hover_content">
+              <div class="n_hover_content">
+                <ul class="list-unstyled">
+                  <li><a href="mailto:somnath@dokume.net"><i class="far fa-envelope"></i></a></li>
+                  <li><a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a></li>
+                  <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                  <li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a></li>
+                  <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                </ul>
+                <div class="br"></div>
+                <a href="#">
+                  <h3 class="f_p f_size_16 f_600 t_color3"> Somnath</h3>
+                </a>
+                <h5>QA</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="col-lg-3 col-sm-6">
+          <div class="ex_team_item">
+            <img src="websiteNEWASSETS/img/dokume_team/Team_male2_empty-pic.png" alt="Rubel">
+            <div class="team_content">
+              <a href="#">
+                <h3 class="f_p f_size_16 f_600 t_color3"> Sounak</h3>
+              </a>
+              <h5>QA</h5>
+            </div>
+            <div class="hover_content">
+              <div class="n_hover_content">
+                <ul class="list-unstyled">
+                  <li><a href="mailto:sounak@dokume.net"><i class="far fa-envelope"></i></a></li>
+                  <li><a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a></li>
+                  <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                  <li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a></li>
+                  <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                </ul>
+                <div class="br"></div>
+                <a href="#">
+                  <h3 class="f_p f_size_16 f_600 t_color3"> Sounak</h3>
+                </a>
+                <h5>QA</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="ex_team_item">
+            <img src="websiteNEWASSETS/img/dokume_team/Team_male2_empty-pic.png" alt="Rubel">
+            <div class="team_content">
+              <a href="#">
+                <h3 class="f_p f_size_16 f_600 t_color3"> Chinmoy</h3>
+              </a>
+              <h5>QA</h5>
+            </div>
+            <div class="hover_content">
+              <div class="n_hover_content">
+                <ul class="list-unstyled">
+                  <li><a href="mailto:chinmoy@dokume.net"><i class="far fa-envelope"></i></a></li>
+                  <li><a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a></li>
+                  <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                  <li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a></li>
+                  <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                </ul>
+                <div class="br"></div>
+                <a href="#">
+                  <h3 class="f_p f_size_16 f_600 t_color3"> Chinmoy</h3>
+                </a>
+                <h5>QA</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="ex_team_item">
+            <img src="websiteNEWASSETS/img/dokume_team/Team_male2_empty-pic.png" alt="Rubel">
+            <div class="team_content">
+              <a href="#">
+                <h3 class="f_p f_size_16 f_600 t_color3"> Abir</h3>
+              </a>
+              <h5>Marketing</h5>
+            </div>
+            <div class="hover_content">
+              <div class="n_hover_content">
+                <ul class="list-unstyled">
+                  <li><a href="mailto:abir@dokume.net"><i class="far fa-envelope"></i></a></li>
+                  <li><a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a></li>
+                  <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                  <li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a></li>
+                  <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                </ul>
+                <div class="br"></div>
+                <a href="#">
+                  <h3 class="f_p f_size_16 f_600 t_color3"> Abir</h3>
+                </a>
+                <h5>Marketing</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="ex_team_item">
+            <img src="websiteNEWASSETS/img/dokume_team/Team_male2_empty-pic.png" alt="Rubel">
+            <div class="team_content">
+              <a href="#">
+                <h3 class="f_p f_size_16 f_600 t_color3"> Soikat</h3>
+              </a>
+              <h5>UI</h5>
+            </div>
+            <div class="hover_content">
+              <div class="n_hover_content">
+                <ul class="list-unstyled">
+                  <li><a href="mailto:soikat@dokume.net"><i class="far fa-envelope"></i></a></li>
+                  <li><a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a></li>
+                  <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                  <li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a></li>
+                  <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                </ul>
+                <div class="br"></div>
+                <a href="#">
+                  <h3 class="f_p f_size_16 f_600 t_color3"> Soikat</h3>
+                </a>
+                <h5>UI</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="ex_team_item">
+            <img src="websiteNEWASSETS/img/dokume_team/Team_male2_empty-pic.png" alt="Rubel">
+            <div class="team_content">
+              <a href="#">
+                <h3 class="f_p f_size_16 f_600 t_color3"> Sujon Mondal</h3>
+              </a>
+              <h5>UI</h5>
+            </div>
+            <div class="hover_content">
+              <div class="n_hover_content">
+                <ul class="list-unstyled">
+                  <li><a href="mailto:sujon@dokume.net"><i class="far fa-envelope"></i></a></li>
+                  <li><a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a></li>
+                  <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                  <li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a></li>
+                  <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                </ul>
+                <div class="br"></div>
+                <a href="#">
+                  <h3 class="f_p f_size_16 f_600 t_color3"> Sujon Mondal</h3>
+                </a>
+                <h5>UI</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="ex_team_item">
+            <img src="websiteNEWASSETS/img/dokume_team/Team_female2_empty-pic.png" alt="Rubel">
+            <div class="team_content">
+              <a href="#">
+                <h3 class="f_p f_size_16 f_600 t_color3"> Sabyasachi Putatunda</h3>
+              </a>
+              <h5>Developer</h5>
+            </div>
+            <div class="hover_content">
+              <div class="n_hover_content">
+                <ul class="list-unstyled">
+                  <li><a href="mailto:Sabyasachi@dokume.net"><i class="far fa-envelope"></i></a></li>
+                  <li><a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a></li>
+                  <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                  <li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a></li>
+                  <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                </ul>
+                <div class="br"></div>
+                <a href="#">
+                  <h3 class="f_p f_size_16 f_600 t_color3"> Sabyasachi Putatunda</h3>
+                </a>
+                <h5>Developer</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="ex_team_item">
+            <img src="websiteNEWASSETS/img/dokume_team/Team_male2_empty-pic.png" alt="Rubel">
+            <div class="team_content">
+              <a href="#">
+                <h3 class="f_p f_size_16 f_600 t_color3"> Surjava Ghosh</h3>
+              </a>
+              <h5>App Developer</h5>
+            </div>
+            <div class="hover_content">
+              <div class="n_hover_content">
+                <ul class="list-unstyled">
+                  <li><a href="mailto:Surjava@dokume.net"><i class="far fa-envelope"></i></a></li>
+                  <li><a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a></li>
+                  <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                  <li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a></li>
+                  <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                </ul>
+                <div class="br"></div>
+                <a href="#">
+                  <h3 class="f_p f_size_16 f_600 t_color3"> Surjava Ghosh</h3>
+                </a>
+                <h5>App Developer</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="ex_team_item">
+            <img src="websiteNEWASSETS/img/dokume_team/Team_male2_empty-pic.png" alt="Rubel">
+            <div class="team_content">
+              <a href="#">
+                <h3 class="f_p f_size_16 f_600 t_color3"> Krishnendu Manna</h3>
+              </a>
+              <h5>App Developer</h5>
+            </div>
+            <div class="hover_content">
+              <div class="n_hover_content">
+                <ul class="list-unstyled">
+                  <li><a href="mailto:Krishnendu@dokume.net"><i class="far fa-envelope"></i></a></li>
+                  <li><a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a></li>
+                  <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                  <li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a></li>
+                  <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                </ul>
+                <div class="br"></div>
+                <a href="#">
+                  <h3 class="f_p f_size_16 f_600 t_color3"> Krishnendu Manna</h3>
+                </a>
+                <h5>App Developer</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="ex_team_item">
+            <img src="websiteNEWASSETS/img/dokume_team/Team_male2_empty-pic.png" alt="Rubel">
+            <div class="team_content">
+              <a href="#">
+                <h3 class="f_p f_size_16 f_600 t_color3"> Koushik Modak</h3>
+              </a>
+              <h5>SEO</h5>
+            </div>
+            <div class="hover_content">
+              <div class="n_hover_content">
+                <ul class="list-unstyled">
+                  <li><a href="mailto:Koushik@dokume.net"><i class="far fa-envelope"></i></a></li>
+                  <li><a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a></li>
+                  <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                  <li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a></li>
+                  <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                </ul>
+                <div class="br"></div>
+                <a href="#">
+                  <h3 class="f_p f_size_16 f_600 t_color3"> Koushik Modak</h3>
+                </a>
+                <h5>SEO</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="ex_team_item">
+            <img src="websiteNEWASSETS/img/dokume_team/Team_male2_empty-pic.png" alt="Rubel">
+            <div class="team_content">
+              <a href="#">
+                <h3 class="f_p f_size_16 f_600 t_color3"> Tanmay Das</h3>
+              </a>
+              <h5>SEO</h5>
+            </div>
+            <div class="hover_content">
+              <div class="n_hover_content">
+                <ul class="list-unstyled">
+                  <li><a href="mailto:tanmay@dokume.net"><i class="far fa-envelope"></i></a></li>
+                  <li><a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a></li>
+                  <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                  <li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a></li>
+                  <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                </ul>
+                <div class="br"></div>
+                <a href="#">
+                  <h3 class="f_p f_size_16 f_600 t_color3"> Tanmay Das</h3>
+                </a>
+                <h5>SEO</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-sm-6">
+          <div class="ex_team_item">
+            <img src="websiteNEWASSETS/img/dokume_team/Team_male2_empty-pic.png" alt="Rubel">
+            <div class="team_content">
+              <a href="#">
+                <h3 class="f_p f_size_16 f_600 t_color3"> Apu</h3>
+              </a>
+              <h5>Accounts and Legal</h5>
+            </div>
+            <div class="hover_content">
+              <div class="n_hover_content">
+                <ul class="list-unstyled">
+                  <li><a href="mailto:apu@dokume.net"><i class="far fa-envelope"></i></a></li>
+                  <li><a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a></li>
+                  <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                  <li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a></li>
+                  <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                </ul>
+                <div class="br"></div>
+                <a href="#">
+                  <h3 class="f_p f_size_16 f_600 t_color3"> Apu</h3>
+                </a>
+                <h5>Accounts and Legal</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+        
 
         <!-- remove -->
         <!-- <div class="col-lg-3 col-sm-6">

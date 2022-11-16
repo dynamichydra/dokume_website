@@ -85,7 +85,7 @@
             </ul>
           </li>-->
 
-          <li class="dropdown submenu nav-item"><a title="Pages" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#" data-i18n="menu.aboutus">about us</a>
+          <li class="dropdown submenu nav-item"><a title="Pages" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#" data-i18n="menu.aboutus">About us</a>
             <ul role="menu" class=" dropdown-menu">
               <li class="nav-item"><a title="About" class="nav-link" href="aboutus.php">who we are</a></li>
               <li class="nav-item"><a title="About" class="nav-link" href="team.php">Our team</a></li>

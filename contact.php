@@ -70,6 +70,10 @@
               <p class="f_400 f_size_15">Subhas Avenue by lane, Ranaghat, Nadia, WEST BENGAL, 741201</p>
             </div>
             <div class="contact_info_item">
+              <h6 class="f_p f_size_20 t_color3 f_500 mb_20">Germany Office</h6>
+              <p class="f_400 f_size_15">Fritz-Figge-Str. 13, D-50823 Cologne</p>
+            </div>
+            <div class="contact_info_item">
               <h6 class="f_p f_size_20 t_color3 f_500 mb_20">contact information</h6>
               <p class="f_400 f_size_15"><span class="f_400 t_color3">Phone:</span> <a href="tel:00919230062065">+91 92300 62065</a></p>
               <p class="f_400 f_size_15"><span class="f_400 t_color3">Email:</span> <a href="mailto:info@dokume.in">info@dokume.in</a></p>
@@ -95,6 +99,7 @@
               </script>
 
               <div class="contact_form_box">
+                <form name="sendMail" id="sendMailForm">
                 <div class="row">
                   <div class="col-lg-6">
                     <div class="form-group text_box">
@@ -123,7 +128,8 @@
                     </div>
                   </div>
                 </div>
-                <button id="saveMemberBTN" class="btn_three">Send Message</button>
+                <button id="saveMemberBTN" class="btn_three" onclick="sendEmail()">Send Message</button>
+              </form>
               </div>
               <div id="success">Your message succesfully sent!</div>
               <div id="error">Opps! There is something wrong. Please try again</div>
@@ -166,6 +172,58 @@
   <script src="websiteNEWASSETS/js/jquery.validate.min.js"></script>
   <script src="websiteNEWASSETS/js/contact.js"></script>-->
   <script src="websiteNEWASSETS/js/main.js"></script>
+  <script type="text/javascript">
+    function sendEmail(){
+      var htm = '';
+      var senderName = $('#name').val();
+      var senderEmail = $('#DM_EMAIL_INPUT').val();
+      var senderSub = $('#subject').val();
+      var senderMessage = $('#message').val();
+
+      htm = 'New contact message received from:- <br> Name: "'+senderName+'" <br>Email: "'+senderEmail+'" <br> Message: "'+senderMessage+'"';
+
+        $headers  = "From: admin@dokume.in\r\n";
+        $headers .= "Reply-To: noreply@dokume.in\r\n";
+        // $headers .= "CC: susan@example.com\r\n";
+        $headers .= "MIME-Version: 1.0\r\n";
+        $headers .= "Content-Type: text/html; charset=UTF-8\r\n";
+        mail('niraj.singh88.ns@gmail.com', $senderSub, $htm, $headers);
+    }
+  </script>
+
+  <script type="text/javascript">
+    // #sendMailForm takes the data from the form with given ID
+$( '#sendMailForm' ).submit(function ( e ) {
+    var data = {
+        'name': $('#name').val(),
+        'email': $('#DM_EMAIL_INPUT').val(),
+        'subject': $('#subject').val(),
+        'message' : $('#message').val()
+    };
+    // POST data to the php file
+    $.ajax({ 
+        url: 'send_mail.php', 
+        data: data,
+        type: 'POST',
+        success: function (data) {
+      // For Notification
+            document.getElementById("sendMailForm").reset();
+            var $alertDiv = $(".mailResponse");
+            $alertDiv.show();
+            $alertDiv.find('.alert').removeClass('alert-danger alert-success');
+            $alertDiv.find('.mailResponseText').text("");
+            if(data.error){
+                $alertDiv.find('.alert').addClass('alert-danger');
+                $alertDiv.find('.mailResponseText').text(data.message);
+            }else{
+                $alertDiv.find('.alert').addClass('alert-success');
+                $alertDiv.find('.mailResponseText').text(data.message);
+            }
+        }
+    });
+    e.preventDefault();
+});
+  </script>
 </body>
 
 </html>
